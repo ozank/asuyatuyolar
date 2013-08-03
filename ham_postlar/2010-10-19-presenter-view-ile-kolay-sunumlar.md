@@ -1,0 +1,13 @@
+--- layout: post name: presenter-view-ile-kolay-sunumlar title: Presenter-view ile kolay sunumlar time: 2010-10-19 23:51:00.000000000 +01:00 --- Microsoft ürünlerini pek sevmiyorum ama Powerpoint sunum konusunda tekel durumunda olduğu için bahsetmeden geçmek olmaz. Sanıyorum herkesin de PowerPoint'le sunum yaparken illa ki kötü bir anısı olmuştur. Ya slaytlar karışmıştır ya da söyleyeceklerimiz bir türlü aklımıza gelmemiştir. En iyi ihtimalle süre yetmemiştir filan. PowerPoint'in bu konularda derdinize deva olacak bir özelliği var ama nedense pek bilinmiyor. Adı Presenter view, mantık olarak Erdoğan'ın konuşmalarında kullandığı prompter'la aynı mantık.
+[![](http://2.bp.blogspot.com/_VbDsH1Mbydo/TL4cDYWsw5I/AAAAAAAAApw/3PM8B0FSW7o/s320/Resim_1269174265.jpg)](http://2.bp.blogspot.com/_VbDsH1Mbydo/TL4cDYWsw5I/AAAAAAAAApw/3PM8B0FSW7o/s1600/Resim_1269174265.jpg)
+PowerPoint'te bu özelliği görebilmeniz için iki monitör kullanıyor olmanız lazım (ya da bilgisayarınızın projeksiyon cihazına bağlı olması).
+Presenter-view'ı 
+SlideShow --\>Set up Slide Show --\> View --\>gelen pencerede "Show Presenter view"ı tıklayarak açabilirsiniz. 
+(Bendeki versiyonu İngilizce ama Türkçe'sinde de aşağıdaki menüyü açınca kolayca bulursunuz)
+[![](http://3.bp.blogspot.com/_VbDsH1Mbydo/TL4dtfs6o7I/AAAAAAAAAp0/SBDezW2cHpc/s320/slideshowdialog.png)](http://3.bp.blogspot.com/_VbDsH1Mbydo/TL4dtfs6o7I/AAAAAAAAAp0/SBDezW2cHpc/s1600/slideshowdialog.png)
+Office 2007'de ise aşağıdaki gibi etkinleştirebilirsiniz.
+[![](http://4.bp.blogspot.com/_VbDsH1Mbydo/TL4ehnRrx8I/AAAAAAAAAp4/l08eLsa6MV4/s640/Ribbon.png)](http://4.bp.blogspot.com/_VbDsH1Mbydo/TL4ehnRrx8I/AAAAAAAAAp4/l08eLsa6MV4/s1600/Ribbon.png)
+Bu özelliği aktif hale getirdikten sonra, sunum yaparken projeksiyon cihazına farklı, sizin önünüzdeki ekrana farklı görüntü gelecek. Projeksiyonda sunumunuz normal içeriğiyle görünecek. Ancak önünüzdeki ekranda, sunumun süresi, sonraki ve önceki slaytlar gibi ek bilgiler görünecek. Daha güzeli her slayt için bahsedeceğiniz konuları slaytların altına yazarsanız, bu yazdıklarınızı Presenter view'deyken görebilieceksiniz. 2003 ve 2007 versiyonlarının görüntüleri aşağıdaki gibi...
+Bir daha söyleyeceklerinizi kağıtlara yazmak, yarısını unutmak yok. Hele bilgisayarınızı kürsüye göz hizanıza koyarsanız sizden kralı yok. Artık siz de Erdoğan gibi konuşabileceksiniz :-)
+[![](http://1.bp.blogspot.com/_VbDsH1Mbydo/TL4fXBc4shI/AAAAAAAAAqE/uMPXyviJnms/s1600/oldpv.png)](http://1.bp.blogspot.com/_VbDsH1Mbydo/TL4fXBc4shI/AAAAAAAAAqE/uMPXyviJnms/s1600/oldpv.png)
+[![](http://3.bp.blogspot.com/_VbDsH1Mbydo/TL4fKka9U7I/AAAAAAAAAqA/7jzu9FMo0EY/s640/labeled.png)](http://3.bp.blogspot.com/_VbDsH1Mbydo/TL4fKka9U7I/AAAAAAAAAqA/7jzu9FMo0EY/s1600/labeled.png)

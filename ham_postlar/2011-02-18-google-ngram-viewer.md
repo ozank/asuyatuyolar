@@ -1,0 +1,17 @@
+--- layout: post name: google-ngram-viewer title: Google Ngram Viewer time: 2011-02-18 12:39:00.000000000 +00:00 ---
+[Google Labs](http://www.googlelabs.com/) sitesinde dolanırken, belki akademik arkadaşların işine yarayabilecek yeni bir siteyle karşılaştım.
+**[Google Ngram Viewer](http://ngrams.googlelabs.com/)**
+[![](http://2.bp.blogspot.com/-EV0OPw_H3GU/TV3I7KcnuSI/AAAAAAAAAyA/mqCaPhjWB1g/s320/google+book+search.jpg)](http://ngrams.googlelabs.com/)
+Sitenin ne iş yaptığına gelirsek, [Google Books](http://books.google.co.uk/) sitesinde 15 milyon kitabın dijital haline ulaşabiliyorsunuz. Eğer bu siteden haberiniz yoksa, mutlaka bir göz atın. Ngram adlı site, bu 15 milyon kitabın içerisindeki istediğiniz kelimeleri aratmanızı sağlıyor, ve yıllara göre dağılımını veriyor. 1700'lere kadar giden bir kitap arşivini kullanabiliyorsunuz.
+Bu verileri, çalışmalarınız için ilginç grafikler oluşturmakta kullanabilirsiniz. Üstelik, hangi kelimelerin hangi kitaplarda geçtiğinin listesine ulaşabilir. İstediğiniz veriyi alıp, başka programlarla da kullanabilirsiniz.
+Neyse sözü fazla uzatmayıp, size bir kaç grafik sunayım. Resimlere tıklayarak, google Ngram sitesine gidebilirsiniz.
+Mesela, dünyada nükleer enerji ve yenilenebilir enerji trendlerine bakacak olursak. 1980'lerden sonra nükleer enerjinin biraz modasının geçtiğini, yenilenebilir enerjinin ise 1990'lardan sonra revaçta olmaya başladığını görebilirsiniz.
+[![](http://2.bp.blogspot.com/-JsSDE3ocjDg/TV3IUCY_LhI/AAAAAAAAAx8/5Z4RCCPjptw/s640/Screen+shot+2011-02-18+at+01.13.45.png)](http://ngrams.googlelabs.com/graph?content=renewable+energy%2Cnuclear+energy&year_start=1930&year_end=2008&corpus=0&smoothing=3)
+ Ya da feminizm, insan hakları, terörizm gibi kavramların kitaplardaki etkinliğinin nasıl değiştiğini incelemek isterseniz, aşağıdaki gibi bir durum çıkıyor. Terörizm korkusu 1995'ten sonra (ama 11 eylül'den de önce) pompalanmaya başlanıyor ve hala bir artış içinde, terörizm deki artışla  aynı anda insan hakları kavramları da ciddi bir düşüşe geçiyor.
+[![](http://1.bp.blogspot.com/-SvnNchiUfsw/TV3IOqpcVxI/AAAAAAAAAxw/RCfSaROYjhw/s640/Screen+shot+2011-02-18+at+01.12.47.png)](http://ngrams.googlelabs.com/graph?content=feminism%2Cterrorism%2Ccivil+rights&year_start=1950&year_end=2008&corpus=0&smoothing=3)
+Ya da ekonomik krizleri incelemek isterseniz. 1930'larda ve 1970'lerdekı ekonomik krizlerden sonra enflasyon, işsizlik, kriz sözcüklerindeki artışa bakabilirsiniz.
+[![](http://3.bp.blogspot.com/-oJ5SO-kfUNI/TV3IQar34eI/AAAAAAAAAx0/42sF5OPjmoE/s640/Screen+shot+2011-02-18+at+01.13.22.png)](http://ngrams.googlelabs.com/graph?content=inflation%2Cunemployment%2Ccrisis&year_start=1900&year_end=2008&corpus=0&smoothing=3)
+Ya da daha eğlenceli işler yapmak isterseniz, dünyadaki uyuşturucu kullanımı(en azından kitaplara yansıması) hakkında da bir bilgi edinebilirsiniz.68 kuşağı döneminde LSD, esrar gibi uyuşturucular revaçtayken, 80 kuşağındakilerde bir kokain patlaması yaşanmış. Ama 2000'den sonra hepsi düşüşe geçmiş. Tabi kitaplarda geçen kelime sıklığıyla, gerçek uyuşturucu tüketimi arasındaki ilişki ne kadar doğrudur bilemiycem.
+Ama sunumlarında, raporlarında ilginç grafikler vermek isteyenler için baya olanak sunuyor, [Google Ngram Viewer](http://ngrams.googlelabs.com/) sitesi.
+[![](http://4.bp.blogspot.com/-ZzoSX66LBDA/TV3IRyKNniI/AAAAAAAAAx4/D4tyt1bIVU4/s640/Screen+shot+2011-02-18+at+01.13.34.png)](http://ngrams.googlelabs.com/graph?content=cocaine%2Cmarijuana%2CLSD%2Camphetamine&year_start=1900&year_end=2008&corpus=0&smoothing=3)
+

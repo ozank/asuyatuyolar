@@ -1,0 +1,15 @@
+--- layout: post name: literaturu-sizin-yerinize-google-takip title: Literatürü sizin yerinize Google takip etsin. time: 2011-05-13 19:55:00.000000000 +01:00 ---
+Eğer araştırma yaptığınız alandaki son yayınlardan haberdar olmak için yoğun bir çaba sarfetmek gerekir. Konunuzla ilgili tüm dergileri düzenli tarasanız bile(ki bunun için oldukça fazla vakit ayırmak lazım), bu dergilerdeki çok az makale gerçekten sizin konunuzla alakalıdır.
+ [![](http://2.bp.blogspot.com/-FQujPFTYqTA/Tc1vBhzRz8I/AAAAAAAAA7M/brVeFuuKiwk/s200/book-pile-6.jpg)](http://2.bp.blogspot.com/-FQujPFTYqTA/Tc1vBhzRz8I/AAAAAAAAA7M/brVeFuuKiwk/s1600/book-pile-6.jpg)
+Eğer makale aramalarınız için [Google Akademik](http://scholar.google.com.tr/)'i (Google Scholar) kullanıyorsanız (ki kullanmıyorsanız da bence kullanın: ayrı ayrı e-kaynakları taratmaktansa, [Google Akademik](http://scholar.google.com.tr/) üstünden tarama yapmak çok daha kullanışlı) Google Alerts'i kullanabilirsiniz. 
+Google Alerts'in mantığı şu şekilde, diyelim ki rüzgar türbinleri ile ilgili makalelerle ilgileniyorsunuz ve bu konuyla ilgili çıkan tüm yeni yayınlardan haberdar olmak istiyorsunuz. Önce bu konuyu Google Akademik'de aratın.Daha sonra sağ taraftaki 'E-posta uyarısı oluştur' linkine tıklayarak maille hatırlatma oluşturabilirsiniz.
+[![](http://1.bp.blogspot.com/-lYw0Ho4cwaA/Tc16VGwbfHI/AAAAAAAAA7g/RSUBwsGSATE/s400/google_akademik_1.png)](http://1.bp.blogspot.com/-lYw0Ho4cwaA/Tc16VGwbfHI/AAAAAAAAA7g/RSUBwsGSATE/s1600/google_akademik_1.png)
+ [![](http://4.bp.blogspot.com/-2Vv6c8QWp3E/Tc16f_Ivp6I/AAAAAAAAA7k/VpsSbustPKA/s400/google_akademik2.png)](http://4.bp.blogspot.com/-2Vv6c8QWp3E/Tc16f_Ivp6I/AAAAAAAAA7k/VpsSbustPKA/s1600/google_akademik2.png)
+Artık belirttiğiniz konuda çıkan yeni makaleler, belirttiğiniz mail adresine otomatik olarak gelecek. Daha detaylı aramalar yapmak istiyorsanız, işinize yarayabilecek bazı arama kelimeleri:
+Sadece başlıkta anahtar kelime arama --\> **allintitle:** “wind turbines”
+Yazar isminde arama --\> **author:** "ersin ozbukey"
+Eğer kendi makalelerinize ya da hoşunuza giden başka yayınlara verilen yeni referansları takip etmek istiyorsanız, önce makaleyi bulun, ve ona verilen referansları seçin.
+[![](http://4.bp.blogspot.com/-KPVf9YwP40c/Tc16mgrc4kI/AAAAAAAAA7o/mjEvdN9x9vU/s400/google_akademik3.png)](http://4.bp.blogspot.com/-KPVf9YwP40c/Tc16mgrc4kI/AAAAAAAAA7o/mjEvdN9x9vU/s1600/google_akademik3.png)
+Daha sonra uyarı oluştur seçeneğini tıkladığınızda, ilerde o makaleye verilecek tüm referansları izleyebileceksiniz.
+[![](http://3.bp.blogspot.com/-ylfKUk4FZQs/Tc17AAvWOWI/AAAAAAAAA7s/9zg8aLDfEOU/s400/google_akademik4.png)](http://3.bp.blogspot.com/-ylfKUk4FZQs/Tc17AAvWOWI/AAAAAAAAA7s/9zg8aLDfEOU/s1600/google_akademik4.png)
+Eğer bunlar sizi kesmediyse [gelişmiş arama seçeneklerini](http://scholar.google.com.tr/advanced_scholar_search) kullanarak, yıllara ya da yayın ismine göre kısıtlamalarla daha nokta atışı aramalar yapabilir ve istediğiniz arama başlığıyla ilgili hatırlatmalar oluşturabilirsiniz. Benzer uygulamayı genel Google aramalarında yapmak için [Google Alerts](http://www.google.com.tr/alerts) sitesini kullanabilirsiniz.

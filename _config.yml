@@ -11,43 +11,43 @@ owner:
   bio:            "Just another boring, time traveling, tattooed, designer from Buffalo New York."
   email:          michael@mademistakes.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        "mmistakes"
+  twitter:        "asuya_tuyolar"
   facebook:       
-  github:         "mmistakes"
+  github:         "ozank"
   linkedin:       
-  instagram:      "mmistakes"
+  instagram:      
   lastfm:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/118238196859537351707"
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-2011187-3
-google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+google_analytics:   UA-42934492-1
+google_verify:      dN8jR-zjlsGtpJb7IMPjo82FnvijPWDRhejtHnQXr2U
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD
+# bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: Hakkında
     url: /about
-  - title: Articles
+  - title: Yazılar
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Favoriler
+    url: /favoriler
+ # - title: Made Mistakes
+ #   url: http://mademistakes.com
+ #   external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Istanbul
 future:      true
 pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:year/:month/:title
 
 kramdown:
   auto_ids: true
@@ -64,4 +64,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less"]
