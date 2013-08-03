@@ -35,8 +35,8 @@ input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit
 button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
 textarea{overflow:auto;vertical-align:top;}
 table{border-collapse:collapse;border-spacing:0;margin-bottom:1.5em;}
-::-moz-selection{background-color:#dadada;color:#343434;text-shadow:none;}
-::selection{background-color:#dadada;color:#343434;text-shadow:none;}
+::-moz-selection{background-color:#ffffff;color:#f2f2f2;text-shadow:none;}
+::selection{background-color:#ffffff;color:#f2f2f2;text-shadow:none;}
 .all-caps{text-transform:uppercase;}
 .pull-left{float:left;}
 .pull-right{float:right;}
@@ -305,7 +305,7 @@ html{background-color:#ebebeb;font-family:'PT Serif',serif;font-color:#222222;fo
 .footer-wrap footer{display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;}
 .related-articles{display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;}.related-articles h4{font-size:21px;font-size:1.1666666666666667rem;margin-bottom:1.4142857142857141rem;text-transform:uppercase;margin-bottom:0;}
 .related-articles li{margin-bottom:0;color:#ffffff;}
-.footer-icons li{display:inline-block;padding-right:5px;}.footer-icons li a{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;color:#9a9a9a;-webkit-transition:0.4s linear;-moz-transition:0.4s linear;-ms-transition:0.4s linear;-o-transition:0.4s linear;transition:0.4s linear;}.footer-icons li a:hover{text-decoration:none;border-bottom:none;}.footer-icons li a:hover .icon-twitter,.footer-icons li a:hover .icon-twitter-sign{color:#2aa9df;}
+.footer-icons li{display:inline-block;padding-right:5px;}.footer-icons li a{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;color:#ffffff;-webkit-transition:0.4s linear;-moz-transition:0.4s linear;-ms-transition:0.4s linear;-o-transition:0.4s linear;transition:0.4s linear;}.footer-icons li a:hover{text-decoration:none;border-bottom:none;}.footer-icons li a:hover .icon-twitter,.footer-icons li a:hover .icon-twitter-sign{color:#2aa9df;}
 .footer-icons li a:hover .icon-facebook,.footer-icons li a:hover .icon-facebook-sign{color:#3a5a98;}
 .footer-icons li a:hover .icon-instagram,.footer-icons li a:hover .icon-instagram-sign{color:#306088;}
 .footer-icons li a:hover .icon-google-plus,.footer-icons li a:hover .icon-google-plus-sign{color:#b63324;}
