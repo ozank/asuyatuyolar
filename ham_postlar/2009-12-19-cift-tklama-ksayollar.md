@@ -12,7 +12,6 @@ time: 2009-12-19
 Her ne kadar Excel kullanmayı çok sevmesem de, kullanışlı bulduğum birkaç kısayoldan bahsedeyim[^1]. 
 
 **Ofis logosuna çift tıklayarak excel'i kapatın.**
-
 [![](http://chandoo.org/img/l/office-logo-double-click-trick.png)](http://chandoo.org/img/l/office-logo-double-click-trick.png)
 
 **Hücre genişliğini otomatik ayarlayın.**
@@ -38,8 +37,6 @@ Bir hücrenin kenar çizgilerine çift tıklarsanız, o yöndeki en son hücreye
 **Format kopyalayıcısını bir çok hücreye uygulayın.**
 
 [![](http://chandoo.org/img/l/lock-format-painter.gif)](http://chandoo.org/img/l/lock-format-painter.gif)
-
-** **
 
 **İlginizi Çekebilecek Diğer yazılar**
 
