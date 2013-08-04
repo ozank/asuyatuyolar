@@ -1,8 +1,0 @@
---- layout: post name: kullan-at-mail-adresi title: Kullan-at mail adresi time: 2011-02-05 21:00:00.000000000 +00:00 ---
-Eğer mailinize hergün yüzlerce spam mail geliyorsa(ki gelmeyen olduğunu sanmıyorum), bunun en önemli sebeplerinde birisi, e-mailinizi soran her siteye doğruyu söylemenizdir. Malesef, bazı güvenilir olmayan siteler, ya mail adreslerinizi spam reklamcılara satıyor ya da sitelerinde yayınlayıp, ilgisiz kişilerin eline geçmesine önayak oluyorlar. Peki ne yapmak lazım?
-[![](http://1.bp.blogspot.com/_VbDsH1Mbydo/TU25dXoCH4I/AAAAAAAAAvc/-XT2qJ95P_U/s200/no-spam_e5f8371848a6eb06583ca090bb2f9fb9.jpg)](http://1.bp.blogspot.com/_VbDsH1Mbydo/TU25dXoCH4I/AAAAAAAAAvc/-XT2qJ95P_U/s1600/no-spam_e5f8371848a6eb06583ca090bb2f9fb9.jpg)
- Ya kendinize önemsiz bir mail adresi alıp, tüm üyelik işlemlerini o mail üstünden halledeceksiniz, ya da daha basiti tek kullanımlık mail adresi veren sitelerden birini ziyaret edeceksiniz. Şifre, üyelikle filan uğraşmadan alacağınız bu tek kullanımlık mail adresini, tüm üyelik onayı işlemlerinizde ya da gizliliğinizi korumak istediğiniz durumlarda kullanabilirsiniz, zaten email adresi bir kaç saat sonra geçersiz olacaktır.
-Ben, biraz da alışkanlıktan [guerillamail](http://www.guerrillamail.com/)sitesini kullanıyorum. Ancak, [Tempinbox](http://www.tempinbox.co.uk/) sitesi de sade tasarımıyla oldukça başarılı.
-[![](http://3.bp.blogspot.com/_VbDsH1Mbydo/TU25Woqm2xI/AAAAAAAAAvQ/ArfdpyXQfjo/s320/images.jpeg)](http://www.tempinbox.co.uk/)
-Üstelik bu amaçla kullanabileceğiniz Türkçe bir site de mevcut.[Tempmail](http://www.tempail.com/gecici-mail). Kullanın memnun kalacaksınız.
-[![](http://4.bp.blogspot.com/_VbDsH1Mbydo/TU25boQtIxI/AAAAAAAAAvY/mQTtmUI7nw4/s1600/logo.png)](http://www.tempail.com/gecici-mail)

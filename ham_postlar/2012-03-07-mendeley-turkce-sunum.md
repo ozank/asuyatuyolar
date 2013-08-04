@@ -1,4 +1,0 @@
---- layout: post name: mendeley-turkce-sunum title: Mendeley Türkçe Sunum time: 2012-03-07 23:41:00.000000000 +00:00 ---
-[![](http://2.bp.blogspot.com/-fp_X6wNHxlo/SzABJscyDZI/AAAAAAAAAZs/84EAs_0sEhs/s1600/Mendeley.png)](http://asuyatuyolar.blogspot.com/2009/12/mendeley-akademik-pdf-ve-referans.html)
-[Mendeley](http://asuyatuyolar.blogspot.com/2009/12/mendeley-akademik-pdf-ve-referans.html) sitesinde gezinirken, [Mendeley'in Türkçe sunumunu](http://www.mendeley.com/research/mendeleyteachingpresentation-tr/) buldum. Gökberk Can tarafından çevrilmiş. Eğer Mendeşey kullanmaya yeni başladıysanız ya da arkadaşlarınızı Mendeley kullanmak için ikna etmeye çalışıyorsanız faydalı olabilir.
-[2011-Mendeley Teaching Presentation TR](http://www.scribd.com/doc/62446587/2011-Mendeley-Teaching-Presentation-TR "View 2011-Mendeley Teaching Presentation TR on Scribd")

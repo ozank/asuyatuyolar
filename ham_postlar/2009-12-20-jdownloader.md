@@ -1,5 +1,0 @@
---- layout: post name: jdownloader title: Jdownloader time: 2009-12-20 14:50:00.000000000 +00:00 --- Aslı'dan gelen bir sorumuzu cevaplıyoruz; Rapidshare'den dosya indirmenin kolay bir yolu var mıdır?
-Cevap: Jdownloader. Benim de yakın zamanda öğrendiğim güzel bir program(Burak sağolsun). Programin gördüğüm kadarıyla desteklemediği indirme sitesi, linki yok gibi. Programı aşağıdaki resme tıklayarak indirebilirsiniz.
-[![](http://jdownloader.org/_media/knowledge/wiki/jdownloader.png?w=150)](http://jdownloader.org/download/index)
-Programı kurduktan sonra her hangi bir rapidshare linki(ya da baska bi link) tek yapmaniz gereken linki kopyalamak, jdownloader programi otomatik indiremeye başlıyor hemen. Yok daha 15 dakika beklemelisiniz uyarılarıyla, yok resimde kaç köpek kaç kedi var sorularıyla muhatap olmuyorsunuz. Zipli dosyaları da indirme bittikten sonra otomatik birleştiriyor. Bağlantınız koptuysa da tekrar indiriyor kaldığı yerden (gerçi yarım kalan dosyaya tekrar baştan başlıyor paralı hesabınız yoksa)
-Velhasıl kelam, indirme işlerini baya kolaylaştırıyor, tavsiye ederim. Açık kaynaklı olması da başka bir güzelliği.
