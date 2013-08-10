@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Asu'ya Tüyolar: Araştırmacılar bilgisayar ve internet tüyoları."
+tags: [Jekyll,asuya tuyolar, asuyatuyolar, asu'ya tuyolar,asuya tüyolar, asuyatüyolar, asu'ya tüyolar, bilgisayar ipuçları, akademik, bilgisayar, verimlilik, referans, dosya paylaşım, tez, makale, word, sunum, poster, akademik poster, latex, linux]
 image:
   feature: asuyatuyolar_header.png
 ---

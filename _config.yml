@@ -30,18 +30,20 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Hakkinda
-    url: /about
-  - title: Yazilar
-    url: /articles
   - title: Favoriler
     url: /favoriler
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Etiketler
+    url: /tags
+  - title: Arşiv
+    url: /articles
+  - title: Hakkinda
+    url: /about
+  #- title: Made Mistakes
+  #  url: http://mademistakes.com
+  #  external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/London
+timezone:    Europe/Istanbul
 future:      true
 pygments:    true
 markdown:    kramdown
