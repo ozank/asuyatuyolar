@@ -4,7 +4,7 @@ permalink: /about/index.html
 title: Hakkında
 tags: 
 image:
-  feature: texture-feature-02.jpg
+  feature: asuyatuyolar_header.png
 ---
 
 
