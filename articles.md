@@ -5,5 +5,5 @@ title: Arşiv
 tagline: Şimdiye kadarki tüm yazılar
 tags: [blog, graphic design]
 image:
-  feature: texture-feature-03.jpg
+ # feature: texture-feature-03.jpg
 ---

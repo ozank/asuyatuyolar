@@ -2,19 +2,19 @@ title:            Asu'ya Tüyolar
 tagline:          Araştırmacılar için bilgisayar, internet tüyoları
 description:      A responsive Jekyll theme large featured images and solid typography.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://ozank.github.io/asuyatuyolar
+#url:              http://ozank.github.io/asuyatuyolar
 
 # Owner/author information
 owner:
   name:           Ozan K
   avatar:         bio-photo.jpg
-  bio:            "Just another boring, time traveling, tattooed, designer from Buffalo New York."
-  email:          michael@mademistakes.com
+  bio:            "Edinburgh Üniversitesi'nde araştırmacı."
+  email:          o.keysan@ed.ac.uk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        "asuya_tuyolar"
   facebook:       
   github:         "ozank"
-  linkedin:       
+  linkedin:       "okeysan"
   instagram:      
   lastfm:         
   tumblr:         
@@ -30,12 +30,12 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Favoriler
-    url: /favoriler
-  - title: Etiketler
+  - title: ETİKETLER
     url: /tags
-  - title: Arşiv
+  - title: ARŞİV
     url: /articles
+  - title: Bağlantılar
+    url: /links
   - title: Hakkinda
     url: /about
   #- title: Made Mistakes
