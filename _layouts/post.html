@@ -30,6 +30,12 @@
       {{ content }}
     <hr />
 
+<div class="tags-cloud">
+{% for tag in page.tags %}
+<a href="/tag/#{{ tag }}">#{{ tag }}</a>
+{% endfor %}
+
+</div>
 	<!-- Paylas -->
 	<div><a href="https://twitter.com/share" class="twitter-share-button" data-via="asuya_tuyolar" data-lang="tr" data-dnt="true">Tweet</a>
 	<!-- Google + -->
@@ -37,6 +43,7 @@
 	<!-- Facebook -->
 	<div class="fb-like" data-width="50" data-layout="button_count" data-show-faces="false" data-send="false"></div> </div>
 
+   <hr />
 	
 	{% include comments.html %}
         <footer role="contentinfo">

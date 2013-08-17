@@ -31,7 +31,7 @@ owner:
 # For external links add external: true
 links:
   - title: ETİKETLER
-    url: /tags
+    url: /tag
   - title: ARŞİV
     url: /articles
   - title: Bağlantılar

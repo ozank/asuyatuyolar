@@ -101,6 +101,8 @@ blockquote{font-style:italic;border-left:10px solid #ccc;margin-left:0;padding-l
 .footnotes{font-size:90%;}
 tt,code,kbd,samp,pre{font-family:'source-code-pro',monospace;}
 p code{font-size:80%;white-space:nowrap;margin:0 2px;padding:0 5px;border:1px solid #e6e6e6;background-color:#f2f2f2;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
+.tag-cloud{font-size:1.0em;}
+.tag-cloud span{vertical-align:super;font-size:0.8em;}
 .highlight{background-color:#efefef;font-family:'source-code-pro',monospace;font-size:80%;color:#333332;margin-bottom:1.5em;}
 .highlight pre{margin:0px;padding:1em;}
 .hll{background-color:#ffffcc;}

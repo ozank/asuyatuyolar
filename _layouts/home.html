@@ -22,7 +22,7 @@
 </div><!-- /.image-wrap -->{% endif %}
 
 <div class="article-author-top">
- {% include search.html %} 
+ {% include left_column.html %} 
 </div>
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
@@ -35,7 +35,14 @@
     <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
   </article>
   {% endfor %}
+
+<h4> Etiketler </h4>
+<!-- Etiketler -->
+<div class="tag-cloud">{% for tag in site.tags %}{% if tag[1].size > 1 %}<a href="/tag/#{{ tag | first }}">{{ tag | first }}<span>{{ tag[1].size }}</span></a>, {% endif %}{% endfor %}</a>
+</div>
+
 </div><!-- /#index -->
+
 
 <div class="footer-wrap">
   <footer>
