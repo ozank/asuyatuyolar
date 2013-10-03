@@ -12,7 +12,7 @@ Bir önceki yazıda, tek kullanımlık mail adresiyle üyelik alma yolllarından
 
 Siteye üyelik bilgilerini aradığınız sitenin ismini yazın, mesela [radikal.com.tr](http://www.bugmenot.com/view/radikal.com.tr), mevcut üyelik bilgileri karşınıza gelsin.
 
-[![]({{ site.url }}/images/bugmenot.png)](/images/bugmenot.png)
+[![]({{site.url}}/images/bugmenot.png)](/images/bugmenot.png)
 
 Eğer sizin de internet camiasıyla paylaşmak istediğiniz fason üyelik bilgileriniz varsa, bunları da [şu linkden](http://www.bugmenot.com/submit.php) siteye ekleyebilirsiniz. 
 Eğer site hoşunuza gittiyse, ve sık sık kullanmaya başladıysanız, [bugmenot'un Firefox eklentisini](https://addons.mozilla.org/en-US/firefox/addon/bugmenot/) kurarak ziyaret ettiğiniz siteler için kullanıcı isimlerini saniyesinde bulabilirsiniz.

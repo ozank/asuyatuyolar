@@ -24,7 +24,7 @@ SlideShow --\>Set up Slide Show --\> View --\>gelen pencerede "Show Presenter vi
 <br>
 Office 2007'de ise aşağıdaki gibi etkinleştirebilirsiniz.
 
-[![]({{ site.url }}/images/Ribbon.png)](/images/Ribbon.png)
+[![]({{ site.url }}/images/Ribbon.png)]({{site.url}}/images/Ribbon.png)
 
 <br>
 Bu özelliği aktif hale getirdikten sonra, sunum yaparken projeksiyon cihazına farklı, sizin önünüzdeki ekrana farklı görüntü gelecek. Projeksiyonda sunumunuz normal içeriğiyle görünecek. Ancak önünüzdeki ekranda, sunumun süresi, sonraki ve önceki slaytlar gibi ek bilgiler görünecek. Daha güzeli her slayt için bahsedeceğiniz konuları slaytların altına yazarsanız, bu yazdıklarınızı Presenter view'deyken görebilieceksiniz. 2003 ve 2007 versiyonlarının görüntüleri aşağıdaki gibi...
@@ -33,4 +33,4 @@ Bu özelliği aktif hale getirdikten sonra, sunum yaparken projeksiyon cihazına
 Bir daha söyleyeceklerinizi kağıtlara yazmak, yarısını unutmak yok. Hele bilgisayarınızı kürsüye göz hizanıza koyarsanız sizden kralı yok. Artık siz de Erdoğan gibi konuşabileceksiniz.
 
 
-[![]({{ site.url }}/images/labeled.png)](/images/labeled.png)
+[![]({{ site.url }}/images/labeled.png)]({{site.url}}/images/labeled.png)

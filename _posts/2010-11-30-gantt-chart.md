@@ -17,4 +17,4 @@ Eğer çok kompleks çizimler yapmayacaksınız işinizi görür. Aslında üye 
 
 Aşağıda benim hazırladığım plan var bakalım bu sefer ne kadarına uyabileceğiz.
 
-[![](/images/gantt_chart.png)](/images/gantt_chart.png)
+[![]({{site.url}}/images/gantt_chart.png)]({{site.url}}/images/gantt_chart.png)

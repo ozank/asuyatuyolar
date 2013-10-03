@@ -17,9 +17,9 @@ Eklentinin nasıl kullanılacağını aşağıdaki video anlatıyor kısaca, aç
 **[Adblock\_Plus](http://www.dailymotion.com/video/x98cjl_adblockplus_lifestyle)**
 Bende aşağıda ufak bir test yaptım. Reklam işini en çok abartan sitelerden habertürk'ü yukarda orjinal haliyle, aşağıda adblock kullandıktan sonraki haliyle görüyorsunuz.
 
-[![](http://2.bp.blogspot.com/_VbDsH1Mbydo/SzI5sIWBU_I/AAAAAAAAAaU/7skSYsrE1Dw/s400/haberturk_reklam.JPG)](http://2.bp.blogspot.com/_VbDsH1Mbydo/SzI5sIWBU_I/AAAAAAAAAaU/7skSYsrE1Dw/s1600-h/haberturk_reklam.JPG)
+[![]({{site.url}}/images/haberturk_reklam.JPG)]({{site.url}}/images/haberturk_reklam.JPG)
 
-[![](http://4.bp.blogspot.com/_VbDsH1Mbydo/SzI5uEHT9UI/AAAAAAAAAac/hPy-5G74ubU/s400/haberturk_reklamsiz.JPG)](http://4.bp.blogspot.com/_VbDsH1Mbydo/SzI5uEHT9UI/AAAAAAAAAac/hPy-5G74ubU/s1600-h/haberturk_reklamsiz.JPG)
+[![]({{site.url}}/images/haberturk_reklamsiz.JPG)]({{site.url}}/images/haberturk_reklamsiz.JPG)
 
 [Vakti olanlar aşağıdaki şu komik yazıyı da okuyabilirler; ](http://www.unsoughtinput.com/index.php/2007/08/16/is-firefox-with-adblock-illegal-unethical-or-just-plan-communism/)
 

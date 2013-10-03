@@ -11,7 +11,7 @@ Artık bilgisayarınızdan çalıştırmak yerine pek çok programın internet �
 
 -   [Google Docs](https://drive.google.com)
 -   [Zoho](http://www.zoho.com/)
--   Office Live
+-   [Office Live](http://www.officelive.com/)
 
 Dökümanlarınızı internet üstünden düzenlemenin en önemli avantajı dosyalarınıza bilgisayarınız olmasa bile internet üstünden ulaşabilmeniz. Tabi internette olması dosyaların bilgisayar çalınmalarına, virüs girmelerine, eski versiyonu yenisinin üstüne kaydetmeye karşı korunaklı olması ve yeni versiyonları sürekli kendi kendinize e-mail atma zahmetinden de (eğer [Dropbox](http://asuyatuyolar.org/2009/12/dropbox.html) kullanmıyorsanız) kurtulmanız demek.
 
@@ -38,7 +38,7 @@ Detaylı bilgi için; [yardım sayfasına](http://docs.google.com/support/bin/to
 
 [Zoho]((http://www.zoho.com/)) aslında Google dokümanlardan çok çok daha kapsamlı bir site, aklınıza gelmeyecek bir sürü hizmet tek çatı altında toplamayı başarmışlar. Hindistan merkezli bu site zaten bu özelliği ile Google'ı oldukça kıskandırıyor. [Zoho]((http://www.zoho.com/))'nun aşağıdaki resimden de anlaşılacağı üzere asıl hedefi ticari kullanıcılar, ama neredeyse tüm hizmetlerinin bedava sürümleri de bulunmakta.
 
-![](/images/zoho.png)
+![]({{site.url}}/images/zoho.png)
 
 Zoho Google dokümanların tüm özelliklerine sahip. Ayrıca elinizdeki word dosyalarını zahmetsizce Zoho'ya aktarabilir, ya da Zoho'da oluşturduklarınızı word dosyası olarak kaydedebilirsiniz (word'un yanı sıra birçok dosya formatını destekliyor, latex'i bile). Üstelik karışık ve büyük dosyalarda bile formatı koruyor ve bu konuda Google'dan daha başarılı. Arayüzü ise aşağıda göründüğü gibi Word'e oldukça yakın;
 
@@ -53,7 +53,7 @@ Zoho'yu üye olmadan da Google, facebook hesaplarınızla kullanmanız mümkün.
 
 Eğer Gmail yerine hotmail hesabınız varsa veya MSN'iniz hep açıksa, Microsoft Office'in bu versiyonu hoşunuza gidebilir. Diğer siteler gibi dokümanlarınızı, mail hesabınıza kaydedebilirsiniz ve heryerden erişebilirsiniz. Ancak Microsoft gene yapmış yapacağını ve çok güzel olabilecek bir servisi berbat etmeyi başarmış. Elinizdeki dosyaları [Office Live](http://www.officelive.com/)'e yükleyemediğiniz gibi, orda oluşturduğunuz dosyaları herhangi bir dosya formatıyla kaydedemiyorsunuz, saçmalık ama .doc uzantılı olarak bile kaydedemiyorsunuz. Sadece Office 2010 kullanıyorsanız, oluşturduğunuz dosyaları bilgisayarınıza alabiliyorsunuz. Office Live'in tek avantajı, arayüzünün word'e oldukça yakın olması ama sonuçta elinizdeki dosyaları akataramadıktan sonra bir işe yaramıyor.
 
-[![](http://4.bp.blogspot.com/-vX3WGRVEE7w/Tt_4QCBcjBI/AAAAAAAABII/K65PWBrSvgY/s640/office_live_space.jpg)](http://4.bp.blogspot.com/-vX3WGRVEE7w/Tt_4QCBcjBI/AAAAAAAABII/K65PWBrSvgY/s1600/office_live_space.jpg)
+![]({{site.url}}/images/office_live_space.jpg)
 
 
 Kıssadan hisse çıkarmak gerekirse, ister Open Office'e geçin bilgisayarınızda çalışın, ister Google Docs ya da Zoho'dan internet üstünden ama kendinizi Microsoft Office illetinden kurtarın...

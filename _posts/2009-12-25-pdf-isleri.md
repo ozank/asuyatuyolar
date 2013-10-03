@@ -8,7 +8,7 @@ tags: [pdf, döküman]
 
 İlk önce kullandığınız pdf okuma programlarıyla başlayalım. Herhalde çoğunuz Adobe Acrobat kullanıyordur, ama neredeyse en kötü pdf programlarından birisi Adobe, hem yavaş hem de çok basit özellikleri bile profesyonel versiyonunda parayla satıyorlar. Benim önerim; ya [Foxit](http://www.foxitsoftware.com/Secure_PDF_Reader/) ya da [PDF-Xchange](http://pdf-xchange-viewer.en.softonic.com/). [Foxit pdf](http://www.foxitsoftware.com/Secure_PDF_Reader/) baya hızlı bir program ve arayüzü gayet basit. Aşağıdan indirebilirsiniz.
 
-[![](/images/foxit.png)](http://www.foxitsoftware.com/Secure_PDF_Reader/)
+[![]({{site.url}}/images/foxit.png)](http://www.foxitsoftware.com/Secure_PDF_Reader/)
 
 Diğer programımızın özellikleri biraz daha fazla, Pdf lere not almak, üstünü filan çizmek nispeten daha kolay. Hangisinin daha iyi olduğuna emin değilim ama ikisinin de Adobe Acrobat'tan güzel ve hızlı olduğuna eminim.
 

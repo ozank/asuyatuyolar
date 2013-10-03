@@ -23,7 +23,7 @@ Ya da mesela yazıda anlamadığınız kısaltmalar ya da terimler varsa, anlam�
 
 Yazım hataları için Word'un eklentisi gayet başarılı ve yaygınca kullanılıyor zaten. Ama eğer maillerinizde imla kontrolü yapmak istiyorsanız, firefox'un birçok eklentisi mevcut. Benim hoşuma gideni(üstelik OpenOffice eklentisi de gayet başarılı) [After the Deadline](http://www.afterthedeadline.com/) adlı eklenti. Detaylı bilgi almak ve kurmak için ana sayfalarına bakabilirsiniz.
 
-[![](/images/open-source-grammar-and-spell-checker-after-the-deadline.jpg)](http://www.afterthedeadline.com/)
+[![]({{site.url}}/images/open-source-grammar-and-spell-checker-after-the-deadline.jpg)](http://www.afterthedeadline.com/)
 
 
 İngilizce için deyimler ve atasözleri sözlüğü diyebileceğimiz bir site de [Idiom Dictionary](http://idioms.thefreedictionary.com/), bir göz atın işinize yarayacak kelimeler bulabilirsiniz.

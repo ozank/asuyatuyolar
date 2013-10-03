@@ -42,13 +42,13 @@ Bu şifre bolluğuyla başetmenin yöntemi, web tarayıcınıza (tercihen [firef
 
 Ama web tarayıcınızda kaydedilen şifrelerinize ulaşmak aslında çok kolay. Mesela Firefox için Ayarlar menüsünden(Ayarlar--\>Güvenlik --\> Kayıtlı parolalar --\> Şifreleri göster) dediğiniz zaman kayıtlı tüm şifrelerinizi görebilirsiniz.(tabi bilgisayarınıza doğrudan ya da uzaktan erişimi olanlar da).
 
-[![](/images/firefox_password.jpg)](/images/firefox_password.jpg)
+[![]({{site.url}}/images/firefox_password.jpg)]({{site.url}}/images/firefox_password.jpg)
 
-[![](/images/firefox_password2.jpg)](/images/firefox_password2.jpg)
+[![]({{site.url}}/images/firefox_password2.jpg)]({{site.url}}/images/firefox_password2.jpg)
 
  Bu sistemi daha güvenli hale getirmek için yapmanız gereken, Firefox' a bir ana parola(master password) koymaktır. Bunun için gene az önceki menüden (Ayarlar--\>Güvenlik --\> Ana parola kullan -Use a master password-) seçeneğini seçebilirsiniz.
 
-[![](/images/master_password.png)](/images/master_password.png)
+[![]({{site.url}}/images/master_password.png)]({{site.url}}/images/master_password.png)
 
 Lütfen bu şifreyi belirlerken daha önce hiç kullanmadığınız, uzun ve karışık bir şifre kullanın. Eğer hatırlamakta zorlanıyorsanız bir kağıda yazıp cüzdanınızda taşıyabilirsiniz.
 İlham vermesi açısından aşağıdaki siteyi kullanabilirsiniz.
@@ -62,13 +62,13 @@ Ama diyelim birden fazla bilgisayarda çalışıyorsunuz veya sizin olmayan bilg
 [**LASTPASS**](http://www.lastpass.com/)
 
 
-[![](/images/last_pass.jpg)](/images/last_pass.jpg)
+[![]({{site.url}}/images/last_pass.jpg)]({{site.url}}/images/last_pass.jpg)
 
 Bu program tüm işletim sistemlerinde Explorer, Firefox ve Chrome'la çalışıyor. Temel olarak yaptığı iş şifrelerinizi güvenli bir şekilde depolamak. Ama bunlar dışında ayrı bir yazıyı hakedecek kadar çok özelliği var. Sık sık girmek zorunda olduğunuz bilgileri de otomatik girebiliyor(adres, telefon, vs.), yeni kayıtlar için şifre üretebiliyor, gizli notlar oluşturabiliyorsunuzvesaire vesaire... Ama benim en çok işime yarayan kısmı, iş ve evdeki bilgisayarlar arasında şifreleri eşleştirmek veya başka bilgisayarlarda istediğimde ulaşabilmem.
 Tabi lastpass dahil diğer tüm metodlar için en önemli şey düzgün bir ana parola belirleyebilmeniz, gene yukardaki siteyi kullanarak kendinize sağlam bir şifre seçebilirsiniz. Mesela benimki;
 
 HU4./nSom\_:)
 
-[![](/images/defendius.jpg)](/images/defendius.jpg)
+[![]({{site.url}}/images/defendius.jpg)]({{site.url}}/images/defendius.jpg)
 
 

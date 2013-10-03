@@ -10,7 +10,7 @@ tags: [sunum]
 
 Bilmiyorum sizin hazırladığınız sunumlar nasıl ama ben dinlediğim sunumların çoğunda uyumamak için kendimi zor tutuyorum. O powerpoint'te madde madde yazıları gördükçe üstüme bir ağırlık çöküyor. Sunum sonunda da konu başlığı aklımda kaldıysa ne ala. Bu yazı malesef ilginç sunum hazırlama tekniklerini anlatmayacak ama gene de ilginç sunumlar için  kullanabileceğiniz web tabanlı uygulamaları bahsedeceğiz.
 
-![](/images/boring_lecture.jpg)
+![]({{site.url}}/images/boring_lecture.jpg)
 
 Microsoft PowerPoint sunum tekelini elinde tutuyor, tepegöz+asetat'a karşı saçma sapan ses ve görüntü efektleri dışında da bir numarası olduğu söylenemez. En çok sevmediğim kısmı ise ortak çalışmaya, web üstünden paylaşmaya hiç uygun olmaması.
 Eğer sizde PowerPoint'ten kurtulabilmek için fırsat arıyorsanız işte bazı seçenekler:
@@ -19,23 +19,23 @@ Eğer sizde PowerPoint'ten kurtulabilmek için fırsat arıyorsanız işte bazı
 
 [Google Dokümanlardan](http://docs.google.com/) daha önce [şu yazımızda](http://asuyatuyolar.org/2010/08/internet-ustunden-ofis-programlar.html) bahsetmiştik. Eğer gmail kullanıyorsanız(ki bence kullanın), google dokümanlarını kullanmaya hemen başlayabilirsiniz. Tek yapmanız gereken [Google Docs](http://docs.google.com/) ana sayfasından yeni bir sunum dosyası oluşturmak.
 
-[![](/images/google_sunum1.png)](/images/google_sunum1.png)
+[![]({{site.url}}/images/google_sunum1.png)]({{site.url}}/images/google_sunum1.png)
 
 Programın oldukça basit bir arayüzü var ve isterseniz elinizdeki PowerPoint dosyalarını da yükleyerek kullanabilirsiniz. Resim, şekil eklemek, YouTube'dan video koymak oldukça basit.
 Aynı anda birkaç kişi de sunum üstünde çalışabiliyor, bu özelliği ile grup sunumları hazırlarken baya işe yarıyor. Ayrıca sunumu hazırladıktan sonra da paylaşmak istediğiniz kişilerle bir linkle paylaşabilir ya da doğrudan websitenizin içine yerleştirebilirsiniz. Yok bana illa powerpoint dosyası lazım diyorsanız .ppt olarak da indirip kaydedebilirsiniz.
 
-[![](/images/google_sunum2.png) ](/images/google_sunum2.png)
+[![]({{site.url}}/images/google_sunum2.png) ]({{site.url}}/images/google_sunum2.png)
 
 
 ## [Slide Share](http://www.slideshare.net/)
 
 Aslında [Slide Share](http://www.slideshare.net/) bir sunum hazırlama sitesi değil, sunum paylaşma sitesi. Daha önceden oluşturduğunuz  sunumları burada paylaşabilir ya da değişik kategorilerdeki binlerce sunuma bir göz atabilirsiniz.
 
-[![](/images/slideshare.png)](http://www.slideshare.net/)
+[![]({{site.url}}/images/slideshare.png)](http://www.slideshare.net/)
 
 Bu siteye sunum yüklemek için ise elinizdeki dosyaları ya da [280Slides](http://280slides.com/) adlı siteyi kullanabilirsiniz, üstelik üye olmanıza gerek de yok.
 
-[![](/images/280_slides.png)](http://280slides.com)
+[![]({{site.url}}/images/280_slides.png)](http://280slides.com)
 
  Bir daha sunumunuzu isteyenlere 15MB'lik sunum dosyasını maille göndermek yerine sadece linkini gönderebilir yada yaptığınız sunumları web sitenizde paylaşıma açabilirsiniz.
 Sitede oldukça faydalı ve ilginç sunumlarda bulmak mümkün, mesela aşağıdaki sunum gibi.

@@ -10,7 +10,7 @@ tags: [doküman]
 
 Word'le tez ya da uzun bir doküman hazırlayacaksanız, word'u daktilo kullanır gibi kullanmayı bırakmalısınız. Aşağıdaki durumlar tanıdık geliyorsa, malesef word değil daktilo kullanıyorsunuz demektir.
 
-[![](http://2.bp.blogspot.com/_XOhL-jJTcBQ/THFfPjH4_-I/AAAAAAAAA18/UzOw6P7qj40/s320/woman_at_typewriter.jpg)](http://2.bp.blogspot.com/_XOhL-jJTcBQ/THFfPjH4_-I/AAAAAAAAA18/UzOw6P7qj40/s1600/woman_at_typewriter.jpg)
+[![]({{site.url}}/images/woman_at_typewriter.jpg)]()
 
 -   Metinleri hizalamak için boşluk tuşuna basılı tutuyorsanız
 -   Numaralandırma işlerini elle yapıyorsanız
@@ -25,7 +25,7 @@ Paragraf İşaretleri: (¶)
 
 Biliyorum eğer bu işarete alışık değilseniz, doküman her tarafında görmek sinir bozucu oluyor. Ama bence kendinizi zorlayın, çünkü işinize baya yarıyacaktır. Paragraf işaretini görünür yapmak oldukça kolay, ayarlar --\> görünüm  menüsünden yapabileceğiniz gibi, aşağıdaki resimdeki gibi doğrudan ana menüden paragraf işaretine tıklayarak, açıp kapatabilirsiniz. Böylelikle yazıcıdan çıktı almadan önce tekrar gizleyebilirsiniz (şaka şaka tabi ki, paragraf işareti veya diğer yardımcı semboller, çıktı alırken görünmüyor).
 
-[![](http://www.codejacked.com/wp-content/uploads/2007/04/ms_word_visible_marks.jpg)](http://www.codejacked.com/wp-content/uploads/2007/04/ms_word_visible_marks.jpg)
+![]({{site.url}}/images/ms_word_visible_marks.jpg)
 
 Paragraf ve sekme işaretlerini kullanarak, dokümanı daha iyi analiz edebilir ve garip davranışlarına çare üretebilirsiniz. Tablolardaki yazılar niye hizalı değil, yukarıya yazı ekledikçe, sayfa başları niye değişiyor, neden paragraf arası boşluklar eşit değil gibi sorunları anlamak bu işaretlerle çok kolay.
 
@@ -34,7 +34,7 @@ Stiller:
 
 Uzun bir doküman hazırlamadan önce yapacağınız en hayırlı iş stillerin nasıl kullanılacağını öğrenmektir. Stiller sayesinde başlıkları, yazı formatını zahmetsizce düzenleyebilirsiniz. Ya da yazı düzenini sonradan değiştirmek istediğinizde, tek yapmanız gereken ilgili stili değiştirmek olacak, stili uyguladığınız kısımlar otomatik değişecektir.
 
-![](/images/styleswin1.png)
+![]({{site.url}}/images/styleswin1.png)
 
 Eğer stillerinizi düzgün ayarladıysanız(word'un hazırda şablonları var ancak okulunuzun tez için belirlediği başka standartlar da olabilir), tek yapmanız gereken yazdıkça, ilgili formatı menüden seçmektir. (Heading1, Normal, Figure caption vs..)
 
@@ -44,7 +44,7 @@ Eğer stillerinizi düzgün ayarladıysanız(word'un hazırda şablonları var a
 İşinize yarayacak başka bir konu da otomatik şekil ve tablo numaralandırmaları ve referansları. Eğer dokümanınınızda şekillere numara vermeniz ve o şekillere referans vermeniz gerekiyorsa ve araya başka şekiller ekledikçe şekil numaralarının otomatik güncellenmesini istiyorsanız, word'un ilgili özelliğini kullanmalısınız.
 Resmi ekledikten sonra  resme sağ tıklayarak 'add caption' ya da 'resim yazısı ekle' tuşuna tıklayın. Çıkan menüden istediğiniz başlığı seçin, resim, tablo ya da kendinizin belirleyeceği başka bir başlık.
 
-![](/images/captiondb.jpg)
+![]({{site.url}}/images/captiondb.jpg)
 
 Eklenen şekillere referans vermek için de 'Şekil 1' gibi elle yazmak yerine
 insert --\> references--\>cross-reference
@@ -77,14 +77,14 @@ Referanslar:
 
 Eğer tezinizi yazarken yararlandığınızı makalelere referansları hala tek tek giriyorsanız, [şu yazımızı](http://asuyatuyolar.org/2009/12/mendeley-akademik-pdf-ve-referans.html) okumamışsınız demektir.
 
-[![](/images/Mendeley.png)](http://asuyatuyolar.org/2009/12/mendeley-akademik-pdf-ve-referans.html)
+[![]({{site.url}}/images/Mendeley.png)](http://asuyatuyolar.org/2009/12/mendeley-akademik-pdf-ve-referans.html)
 
 Yedekleme:
 ----------
 
 Eğer tezinizi yazarken nasıl yedekleyeceğinizi bilmiyorsanız, sürekli kendinize mail atıyorsanız, daha önceki [şu yazımıza](http://asuyatuyolar.org/2009/12/dropbox.html) da bir göz atmalısınız.
 
-[![](/images/dropbox_logo.png)](http://asuyatuyolar.org/2009/12/dropbox.html)
+[![]({{site.url}}/images/dropbox_logo.png)](http://asuyatuyolar.org/2009/12/dropbox.html)
 
 
 Eğer bu bilgiler sizi kesmediyse ve daha fazla kaynak arıyorsanız, aşağıdaki dokümanı şiddetle tavsiye ederim.
