@@ -10,7 +10,7 @@ tags: [sunum]
 
 Microsoft ürünlerini pek sevmiyorum ama Powerpoint sunum konusunda tekel durumunda olduğu için bahsetmeden geçmek olmaz. Sanıyorum herkesin de PowerPoint'le sunum yaparken illa ki kötü bir anısı olmuştur. Ya slaytlar karışmıştır ya da söyleyeceklerimiz bir türlü aklımıza gelmemiştir. En iyi ihtimalle süre yetmemiştir filan. PowerPoint'in bu konularda derdinize deva olacak bir özelliği var ama nedense pek bilinmiyor. Adı Presenter view, mantık olarak Erdoğan'ın konuşmalarında kullandığı prompter'la aynı mantık.
 
-![](images/prompter.jpg)
+![](./images/prompter.jpg)
 
 PowerPoint'te bu özelliği görebilmeniz için iki monitör kullanıyor olmanız lazım (ya da bilgisayarınızın projeksiyon cihazına bağlı olması).
 
