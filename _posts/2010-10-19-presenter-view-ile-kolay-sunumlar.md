@@ -19,7 +19,7 @@ Presenter-view'ı 
 SlideShow --\>Set up Slide Show --\> View --\>gelen pencerede "Show Presenter view"ı tıklayarak açabilirsiniz
 (Bendeki versiyonu İngilizce ama Türkçe'sinde de aşağıdaki menüyü açınca kolayca bulursunuz).
 
-[![](/images/slideshowdialog.png)]()
+[![](images/slideshowdialog.png)]()
 
 <br>
 Office 2007'de ise aşağıdaki gibi etkinleştirebilirsiniz.
