@@ -10,7 +10,7 @@ tags: [güvenlik,internet]
 
 Artık şifre girmeden, kimliğinizi kanıtlamadan internette gezinmek pek mümkün değil. Mesela bu yazıyı yazmak için 3 kere şifre girmem gerekti.  Daha sonra e-maillere bakmak için, ne bileyim forum sitelerine girmek için, bankacılık işlemleri filan yapmak için ayrı ayrı şifreler girmek gerekecek. 
 
-[![](/images/rusty_lock.jpg)]()
+![]({{site.url}}/images/rusty_lock.jpg)
 
 Bu can sıkıcı durumla baş etmek için çoğumuzun yaptığı şey hatırlaması kolay, basit şifreler kullanmak. Ama basit şifrenin de bir sınırı var. Mesela aşağıdaki şifrelerden birini kullanıyorsanız, biraz macerayı seviyorsunuz demektir.
 
@@ -25,7 +25,7 @@ Ama maceraya hala doyamadım diyorsanız, yapacağınız en saçma şey tüm sit
 
 Genelde hesapları ele geçirmek isteyenlerin yaptığı önce dandirik siteleri hackleyip, tüm kullanıcıların şifrelerini ve mail adreslerini ele geçirmek olur.  Daha sonra aynı şifreyle mail adreslerine girilip girilemeyeceğine bakarlar. Eğer girilebiliyorsa bu sefer mail adresinizden diğer sitelerinizin adreslerine ya da şifrelerine ulaşılabilir. Konuyu güzel özetleyen güzel bir karikatür:
 
-[![](/images/password_reuse.png)](/images/password_reuse.png)
+[![]({{site.url}}/images/password_reuse.png)]({{site.url}}/images/password_reuse.png)
 
 Mailinizde password ya da en sık kullandığınız şifreyi aratarak aslında ne kadar çok veri içerdiğine bakabilirsiniz.
 
