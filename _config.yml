@@ -5,21 +5,30 @@ description:      A responsive Jekyll theme large featured images and solid typo
 #url: http://ozank.github.io/asuyatuyolar
 
 # Owner/author information
-owner:
-  name:           Ozan K
-  avatar:         bio-photo.jpg
-  bio:            "Edinburgh Üniversitesi'nde araştırmacı."
-  email:          o.keysan@ed.ac.uk
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        "asuya_tuyolar"
-  facebook:       
-  github:         "ozank"
-  linkedin:       "okeysan"
-  instagram:      
-  lastfm:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+authors:
+  ozan:
+    name:           Ozan Keysan
+    avatar:         bio-photo.jpg
+    bio:            "Edinburgh Üniversitesi'nde araştırmacı."
+    # Social networking links are used in author-bio sidebar. Update and remove as you like.
+    home:     "http://www.see.ed.ac.uk/~okeysan"
+    twitter:  "asuya_tuyolar"
+    facebook:       
+    github:         "ozank"
+    linkedin:       "okeysan"      
+    # For Google Authorship https://plus.google.com/authorship
+    google_plus:    
+  htss:
+    name:           H. Tuğça Şener Şatır
+    avatar:         htss.jpg
+    bio:            "Queen Belfast Universitesi"
+    home:     "http://star.arm.ac.uk/~htss/"
+    twitter:        
+    facebook:       
+    github:         
+    linkedin:           
+    # For Google Authorship https://plus.google.com/authorship
+    google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   UA-42934492-1
