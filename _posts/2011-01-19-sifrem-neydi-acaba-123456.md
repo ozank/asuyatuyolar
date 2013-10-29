@@ -38,7 +38,7 @@ Gözünüzü yeterince korkutmayı becerebildiysem, önerim en önemsiz sitelerd
 
 En önemsiz sitelere aynı şifreyi kullanabilirsiniz ama diğer sitelerin herbirine tahmin edilemez düzgün şifreler kullanın. Daha önemlisi şifrelerinizi farklılaştırın. Farklılaştırmak için basit yollar bulabilirsiniz, mesela sitenin ilk harfini şifrenin sonuna eklemek gibi, örneğin şifreniz "osman"sa gmail de "osmang", hotmail'de "osmanh"'yi kullanabilirsiniz.
 
-Bu şifre bolluğuyla başetmenin yöntemi, web tarayıcınıza (tercihen [firefox](http://asuyatuyolar.blogspot.com/2009/12/firefox.html)) "şifremi hatırla" demektir. Eğer önemli siteler için farklı şifreler kullanmanızı sağlayacaksa ve bilgisayarı sadece siz kullanıyorsanız veya bilgisayar açılış şifreniz varsa pek sorun değil. 
+Bu şifre bolluğuyla başetmenin yöntemi, web tarayıcınıza (tercihen [firefox](http://asuyatuyolar.org/2009/12/firefox.html)) "şifremi hatırla" demektir. Eğer önemli siteler için farklı şifreler kullanmanızı sağlayacaksa ve bilgisayarı sadece siz kullanıyorsanız veya bilgisayar açılış şifreniz varsa pek sorun değil. 
 
 Ama web tarayıcınızda kaydedilen şifrelerinize ulaşmak aslında çok kolay. Mesela Firefox için Ayarlar menüsünden(Ayarlar--\>Güvenlik --\> Kayıtlı parolalar --\> Şifreleri göster) dediğiniz zaman kayıtlı tüm şifrelerinizi görebilirsiniz.(tabi bilgisayarınıza doğrudan ya da uzaktan erişimi olanlar da).
 

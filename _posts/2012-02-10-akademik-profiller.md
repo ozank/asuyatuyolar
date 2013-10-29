@@ -8,11 +8,11 @@ category: articles
 tags: [akademik, kariyer]
 ---
 
-Bu yazıda [Google Akademik](http://scholar.google.com.tr/)'deki yeni bir eklentiden, diğer akademik profil oluşturma sitelerinden ve etki faktörü olaylarından bahsedeceğim. Gün geçmiyor ki bir yazımızda Google'ı yerip başka bir yazımızda övmeyelim. [Daha önceki bir yazıda](http://asuyatuyolar.blogspot.com/2011/05/literaturu-sizin-yerinize-google-takip.html) Google Akademik'i araştırmalarınızda nasıl kullanabileceğinizi yazmıştım. Yeni bir eklenti sayesinde artık Google Akademik'de kendinize ait bir profil oluşturabililiyorsunuz. Bunun için
+Bu yazıda [Google Akademik](http://scholar.google.com.tr/)'deki yeni bir eklentiden, diğer akademik profil oluşturma sitelerinden ve etki faktörü olaylarından bahsedeceğim. Gün geçmiyor ki bir yazımızda Google'ı yerip başka bir yazımızda övmeyelim. [Daha önceki bir yazıda](http://asuyatuyolar.org/2011/05/literaturu-sizin-yerinize-google-takip.html) Google Akademik'i araştırmalarınızda nasıl kullanabileceğinizi yazmıştım. Yeni bir eklenti sayesinde artık Google Akademik'de kendinize ait bir profil oluşturabililiyorsunuz. Bunun için
 
 ### [scholar.google.com/citations](http://scholar.google.com/citations)
 
-adresine gitmeniz yeterli. Peki bu profilin size ne faydası olacak? Öncelikle yayınlarınızı listelediğiniz bir web siteniz yoksa, yayınlarınızı ve yayınlarınıza yapılan referansları otomatik olarak listeyebilirsiniz. Ya da başka yazarların sayfasını araştırıp, o yazarın tüm makalelerini görebilir, yeni yayınlarından [RSS](http://asuyatuyolar.blogspot.com/2010/12/nedir-bu-rss-olay.html) ile haberdar olabilirsiniz. Mesela, [Richard Feynman](http://en.wikipedia.org/wiki/Richard_Feynman)'ın [Google Akademik sayfası](http://scholar.google.com/citations?user=B7vSqZsAAAAJ) aşağıdaki gibi:
+adresine gitmeniz yeterli. Peki bu profilin size ne faydası olacak? Öncelikle yayınlarınızı listelediğiniz bir web siteniz yoksa, yayınlarınızı ve yayınlarınıza yapılan referansları otomatik olarak listeyebilirsiniz. Ya da başka yazarların sayfasını araştırıp, o yazarın tüm makalelerini görebilir, yeni yayınlarından [RSS](http://asuyatuyolar.org/2010/12/nedir-bu-rss-olay.html) ile haberdar olabilirsiniz. Mesela, [Richard Feynman](http://en.wikipedia.org/wiki/Richard_Feynman)'ın [Google Akademik sayfası](http://scholar.google.com/citations?user=B7vSqZsAAAAJ) aşağıdaki gibi:
 
 [![]({{site.url}}/images/richard_feynman.png)](http://scholar.google.com/citations?user=B7vSqZsAAAAJ/)
 

@@ -60,7 +60,7 @@ Aşağıda Prezi için hazırlanmış Türkçe bir kullanma klavuzu var.
 <br>
 **İlginizi Çekebilecek Diğer Yazılar**
 
--   [PowerPoint Eklentileri](http://asuyatuyolar.blogspot.com/2011/03/power-point-eklentileri.html)
--   [Akademik Poster Hazırlama](http://asuyatuyolar.blogspot.com/2010/06/akademik-poster-hazirlama.html)
--   [Belge Şablonları](http://asuyatuyolar.blogspot.com/2011/03/belge-sablonlar.html)
+-   [PowerPoint Eklentileri](http://asuyatuyolar.org/2011/03/power-point-eklentileri.html)
+-   [Akademik Poster Hazırlama](http://asuyatuyolar.org/2010/06/akademik-poster-hazirlama.html)
+-   [Belge Şablonları](http://asuyatuyolar.org/2011/03/belge-sablonlar.html)
 

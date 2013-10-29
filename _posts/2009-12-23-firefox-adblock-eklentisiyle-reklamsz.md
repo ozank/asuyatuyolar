@@ -25,7 +25,7 @@ Bende aşağıda ufak bir test yaptım. Reklam işini en çok abartan sitelerden
 
 **İlginizi Çekebilecek Diğer Yazılar**
 
--   [Firefox 4 Çıktı](http://asuyatuyolar.blogspot.com/2011/03/firefox-4-ckt.html)
--   [Şifrem Neydi Acaba, 123456?](http://asuyatuyolar.blogspot.com/2011/01/sifrem-neydi-acaba-123456.html)
--   [Kullan-at Mail Adresi](http://asuyatuyolar.blogspot.com/2011/02/kullan-at-mail-adresi.html)
+-   [Firefox 4 Çıktı](http://asuyatuyolar.org/2011/03/firefox-4-ckt.html)
+-   [Şifrem Neydi Acaba, 123456?](http://asuyatuyolar.org/2011/01/sifrem-neydi-acaba-123456.html)
+-   [Kullan-at Mail Adresi](http://asuyatuyolar.org/2011/02/kullan-at-mail-adresi.html)
 

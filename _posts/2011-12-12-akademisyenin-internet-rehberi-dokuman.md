@@ -53,7 +53,7 @@ Dropbox'u kullandığınızı varsayarak (eğer kullanmıyorsanız önce [şu ya
 
 Eğer bir dosya üzerinde ortak çalışmak istiyorsanız, kolaylıkla ortak klasörler oluşturabilirsiniz. Bunun için paylaşacağınız klasöre sağ tıklayıp "share this folder" seçeneğini seçip, paylaşmak istediğiniz kişileri davet edin. 
 
-Dropbox hakkında daha fazla tüyo için şu yazıya göz atabilirsiniz: [İleri Dropbox Teknikleri.](http://asuyatuyolar.blogspot.com/2011/02/ileri-dropbox-teknikleri.html)
+Dropbox hakkında daha fazla tüyo için şu yazıya göz atabilirsiniz: [İleri Dropbox Teknikleri.](http://asuyatuyolar.org/2011/02/ileri-dropbox-teknikleri.html)
 
 [![]({{site.url}}/images/share-folder.png)]({{site.url}}/images/share-folder.png)
 

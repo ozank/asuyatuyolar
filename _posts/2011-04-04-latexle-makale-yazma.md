@@ -56,7 +56,7 @@ Mendeley'in makale yazarken iki yönden çok avantajını gördüm.
 
 Bunun için bence en pratik yol, Mendeley'de makalenizde referans vereceğiniz tüm kaynakları bir klasörde toplayın.
 
-[![]({{site.url}}/images/mendeley1.png)](http://asuyatuyolar.blogspot.com/2009/12/mendeley-akademik-pdf-ve-referans.html)
+[![]({{site.url}}/images/mendeley1.png)](http://asuyatuyolar.org/2009/12/mendeley-akademik-pdf-ve-referans.html)
 
 Sonra Mendeley ayarlarından, her klasör için bir bibtex dosyası oluşturun ve kayıt yeri olarak da dropbox'da bir klasör seçin. Bu işin güzelliği diğer yazarlar Mendeley kullanmasa bile .bib dosyaları onların bilgisayarlarına da eşleştirilecektir.
 

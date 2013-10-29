@@ -34,7 +34,7 @@ Fikir vermesi açısından Mendeley'le ilgili bulduğum Türkçe bir sunumu da e
 
 **İlginizi Çekebilecek Diğer yazılar**
 
--   [İleri Mendeley Teknikleri](http://asuyatuyolar.blogspot.com/2011/02/ileri-mendeley-teknikleri-1.html)
--   [Latex ile Makale Yazma](http://asuyatuyolar.blogspot.com/2011/04/latexle-makale-yazma.html)
--   [Word ile Tez Yazma](http://asuyatuyolar.blogspot.com/2010/09/microsoft-word-ile-tez-yazma.html)
+-   [İleri Mendeley Teknikleri](http://asuyatuyolar.org/2011/02/ileri-mendeley-teknikleri-1.html)
+-   [Latex ile Makale Yazma](http://asuyatuyolar.org/2011/04/latexle-makale-yazma.html)
+-   [Word ile Tez Yazma](http://asuyatuyolar.org/2010/09/microsoft-word-ile-tez-yazma.html)
 

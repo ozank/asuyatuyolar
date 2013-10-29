@@ -40,7 +40,7 @@ Bir hücrenin kenar çizgilerine çift tıklarsanız, o yöndeki en son hücreye
 
 **İlginizi Çekebilecek Diğer yazılar**
 
--   [Word ile Tez Yazma](http://asuyatuyolar.blogspot.com/2010/09/microsoft-word-ile-tez-yazma.html)
--   [Şifrem Neydi Acaba, 123456?](http://asuyatuyolar.blogspot.com/2011/01/sifrem-neydi-acaba-123456.html)
+-   [Word ile Tez Yazma](http://asuyatuyolar.org/2010/09/microsoft-word-ile-tez-yazma.html)
+-   [Şifrem Neydi Acaba, 123456?](http://asuyatuyolar.org/2011/01/sifrem-neydi-acaba-123456.html)
 
 [^1]: (Kaynak: [Chaando.org](http://chandoo.org/wp/2009/06/12/excel-mouse-tricks/))

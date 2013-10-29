@@ -35,7 +35,7 @@ ve
 
 **İlginizi Çekebilecek Diğer Yazılar**
 
--   [PDF - Word Çevirmesi](http://asuyatuyolar.blogspot.com/2011/03/pdf-word.html)
--   [Belge Şablonları](http://asuyatuyolar.blogspot.com/2011/03/belge-sablonlar.html)
--   [İnternet Üstünden Ofis Şablonları](http://asuyatuyolar.blogspot.com/2011/02/kullan-at-mail-adresi.html)
+-   [PDF - Word Çevirmesi](http://asuyatuyolar.org/2011/03/pdf-word.html)
+-   [Belge Şablonları](http://asuyatuyolar.org/2011/03/belge-sablonlar.html)
+-   [İnternet Üstünden Ofis Şablonları](http://asuyatuyolar.org/2011/02/kullan-at-mail-adresi.html)
 

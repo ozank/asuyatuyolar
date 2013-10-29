@@ -8,7 +8,7 @@ category: articles
 tags: [yedekleme]
 ---
 
-Eğer hala "Bu Dropbox ne ola ki?" diye soruyorsanız, öncelikle [şu yazımızı](http://asuyatuyolar.blogspot.com/2009/12/dropbox.html) okuyabilir, ve aşağıdaki resime tıklayarak Dropbox'ı yükleyebilirsiniz.
+Eğer hala "Bu Dropbox ne ola ki?" diye soruyorsanız, öncelikle [şu yazımızı](http://asuyatuyolar.org/2009/12/dropbox.html) okuyabilir, ve aşağıdaki resime tıklayarak Dropbox'ı yükleyebilirsiniz.
 
 [![]({{site.url}}/images/dropbox.png)](https://db.tt/eUKTasZ)
 

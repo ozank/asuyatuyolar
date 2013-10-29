@@ -93,7 +93,7 @@ Live CD için yapmanız gereken, istediğiniz işletim sisteminin .ISO uzantıl�
 Live USB
 --------
 
-Eğer [Dropbox](http://asuyatuyolar.blogspot.com/2009/12/dropbox.html) kullanmaya başladıysanız, eski flash diskine pek işiniz düşmüyordur. O kullanmadığınız flash diske Linux yükleyebilirsiniz. Zaten Live USB'de CD'ye göre bence daha avantajlı.
+Eğer [Dropbox](http://asuyatuyolar.org/2009/12/dropbox.html) kullanmaya başladıysanız, eski flash diskine pek işiniz düşmüyordur. O kullanmadığınız flash diske Linux yükleyebilirsiniz. Zaten Live USB'de CD'ye göre bence daha avantajlı.
 
 -   Daha portatif
 -   Daha hızlı
