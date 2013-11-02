@@ -5,7 +5,7 @@ title: LaTeX'le Makale Yazma
 time: 2011-04-04 01:05:00.000000000 +01:00
 description: "Makale yazarken Microsoft Word ile boğuşmayın"
 category: articles
-tags: [yedekleme]
+tags: [yedekleme, populer]
 ---
 
 LaTeX'le aslında yüksek lisans yaparken tanışmıştım ama yüksek lisans tezimi Word'le hazırlamak daha kolayıma gelmişti, şu yazımızda ([Word ile tez yazma](http://asuyatuyolar.org/2010/09/microsoft-word-ile-tez-yazma.html)) anlattığım tüm yöntemleri uygulamama rağmen, şimdi dönüp baktığımda Word'e harcadığım vakitlere acıyorum. Peki ya ben Latex öğrenmeli miyim diye soranlara, diyeceğim:

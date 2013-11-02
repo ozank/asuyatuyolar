@@ -5,6 +5,7 @@ description:      A responsive Jekyll theme large featured images and solid typo
 #url: http://ozank.github.io/asuyatuyolar
 
 # Owner/author information
+author_ids: [ozan,  htss, ismail]
 authors:
   ozan:
     name:           Ozan Keysan

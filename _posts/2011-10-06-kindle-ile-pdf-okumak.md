@@ -4,7 +4,7 @@ name: kindle-ile-pdf-okumak
 title: Kindle ile PDF okumak 
 time: 2011-10-06 18:45:00.000000000 +01:00
 category: articles
-tags: [akademik, doküman, pdf, kindle]
+tags: [akademik, doküman, pdf, kindle, populer]
 --- 
 
 Yakın zamanda e-kitap furyasına ben de katıldım. İlk başlarda açık kodlu `epub` formatını desteklemediği için Amazon Kindle'a soğuk bakıyordum. Ancak daha sonra uygun fiyata bir ikinci el bulunca almaya karar verdim. Gerçi neden uygun olduğunu da birkaç hafta sonra Amazon [yeni Kindle](http://www.amazon.co.uk/Kindle-Wi-Fi-6-Ink-Display/dp/B0051QVF7A/ref=amb_link_161260467_1?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=gateway-center-column&pf_rd_r=1NS4A3HJAGFFNEHBQ703&pf_rd_t=101&pf_rd_p=255057967&pf_rd_i=468294)'ı çıkarınca anladım ya neyse.
@@ -25,7 +25,7 @@ Calibre sayesinde pdf dosyalarını kindle formatına(mobi) dönüştürebiliyor
 Çift sütun PDF'leri tek sütuna dönüştürüp, gereksiz boşlukları kolayca kırpabileceğiniz açık kodlu ve küçük bir program var: [Briss](http://sourceforge.net/projects/briss/). Mesela bir IEEE makalesini Kindle'a uygun hale nasıl geldiğine bakalım. [Briss](http://sourceforge.net/projects/briss/)'i açtığınızda tüm sayfalardaki yazıları üstüste bindirilmiş şekilde göstererek, PDF'yi nerelerden kesebileceğinize karar verebiliyorsunuz
 .
 
-[![](http://2.bp.blogspot.com/-25-UYgdrXG0/TojzGnUepnI/AAAAAAAABDY/Nn3EOmCy7Rk/s640/briss2.png)](http://2.bp.blogspot.com/-25-UYgdrXG0/TojzGnUepnI/AAAAAAAABDY/Nn3EOmCy7Rk/s1600/briss2.png)
+[![]({{site.url}}/images/briss2.png)]({{site.url}}/images/briss2.png)
 
 Mavi dikdörtgenleri ayarlayarak kesilecek yerleri  ayarlayın ya da ikinci bir dikdörtgen oluşturarak dosyayı tek sütuna dönüştürün. Kırpma işleminin dışında tutmak istediğiniz sayfaları da belirtebiliyorsunuz. Sonuç aşağıdaki gibi gayet başarılı.
 

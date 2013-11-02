@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_all_authors
 permalink: /about/index.html
 title: Hakkında
 tags: 

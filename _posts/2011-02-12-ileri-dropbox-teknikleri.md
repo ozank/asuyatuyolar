@@ -4,7 +4,7 @@ name: ileri-dropbox-teknikleri
 title: İleri Dropbox Teknikleri-1 
 time: 2011-02-12 23:56:00.000000000 +00:00
 description: "Dropboxla yapabilecekleriniz"
-category: articles
+category: [articles]
 tags: [yedekleme]
 ---
 

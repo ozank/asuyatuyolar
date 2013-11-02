@@ -5,7 +5,7 @@ title: Power Point ile Akademik Poster Hazırlama
 time: 2011-04-16 20:23:00.000000000 +01:00
 description: "Blogun en popüler yazısı"
 category: articles
-tags: [akademik, sunum]
+tags: [akademik, sunum, populer]
 ---
 
 Daha önce poster hazırlamak için kullanabileceğiniz [Scribus](http://asuyatuyolar.org/2010/06/akademik-poster-hazirlama.html)'tan bahsetmiştik. Bence öğrenmek için biraz vakit harcanırsa (özellikle çok denklem içeren posterler için) en güzel program. Ancak, PowerPoint de çoğu kişinin en alışık olduğu ve arayüzü nispeten basit bir program.

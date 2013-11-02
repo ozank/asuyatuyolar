@@ -5,7 +5,7 @@ title: Akademik Referans Düzenleme Programları
 time: 2013-02-27 12:06:00.000000000 +00:00 
 description: "Endnote, CiteULike, Zotero ve diğerleri"
 category: articles
-tags: [akademik, doküman, kaynakça, mendeley]
+tags: [akademik, doküman, kaynakça, mendeley, populer]
 ---
 
 Blogda şimdiye kadar sadece bir tane akademik referans düzenleme programından bahsettiğimizi fark ettim  Her ne kadar [Mendeley](http://www.asuyatuyolar.org/search/label/mendeley) kullanmaktan şimdilik memnun olsam da, bahsetmeye değer oldukça fazla seçenek var. Tüm akademik referans düzenleme programının listesine [Wikipedia'daki şu sayfadan](http://en.wikipedia.org/wiki/Comparison_of_reference_management_software) ulaşabilirsiniz.

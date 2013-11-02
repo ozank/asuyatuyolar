@@ -1,4 +1,12 @@
 <h4>Ara-Bul</h4>
+
  {% include search.html %} 
+
+ <hr />
 <h4>Popüler Yazılar</h4>
+
+ {% for post in site.tags.populer limit:10 %}    
+ <h6 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h6>
+
+  {% endfor %}
 

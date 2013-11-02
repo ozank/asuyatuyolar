@@ -5,7 +5,7 @@ title: İntihal Tespit Programları
 time: 2011-03-05 23:01:00.000000000 +00:00
 description: "Yalancının mumu yatsıya kadar yanar"
 category: articles
-tags: [akademik]
+tags: [akademik, populer]
 ---
 
 İnternet kullanımıyla birlikte bilgiye erişmek  artık çok kolay. İstediğiniz herhangi bir konuda birkaç saat içinde çok güzel ödevler, raporlar, siteler hatta makaleler hazırlayabilirsiniz. Tabi ki kopyala/yapıştır yöntemiyle. Şahsen bilginin serbest ve herkesin kullanımına açık olmasından yanayım, o yüzden bu blogdaki yazıların hiçbir hakkı saklı değil. Ancak, bazı uyanıklar intihalle mevki elde edip, gerçekten hak edenleri dışarda bırakmaya başlayınca, işin ciddiyeti artıyor. Son aylarda Türkiye'de akademisyen camiadaki intihal olayları  tüm pisliğiyle göz önüne çıktı. Eğer haberiniz olmadıysa aşağıdaki yazılara bir göz atıp, Türkiye'deki üniversitelerin ne hale geldiğini görebilirsiniz.

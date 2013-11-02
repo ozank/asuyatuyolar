@@ -4,7 +4,7 @@ name: her-eve-lazm-linux-live-cd
 title: 'Her eve lazım: Linux Live CD' 
 time: 2011-07-05 21:19:00.000000000 +01:00 
 category: articles
-tags: [linux, güvenlik]
+tags: [linux, güvenlik, populer]
 ---
 Eğer bir Linux kullanıcısı değilseniz bile elinizin altında bir Linux Live CD's bulundurmanın birçok faydasını görebilirsiniz. Peki Windows kullanıyorsam hatta  Linux'dan da hiç anlamıyorsam, ne işime yaracak bu Live CD muhabbeti?
 

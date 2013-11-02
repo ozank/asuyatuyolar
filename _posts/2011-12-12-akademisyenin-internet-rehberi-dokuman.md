@@ -5,7 +5,7 @@ title: 'Akademisyenin İnternet Rehberi: Döküman Yönetimi'
 time: 2011-12-12 01:16:00.000000000 +00:00
 description: "Masaüstünüz hangi versiyonun son olduğunu bilmediğiniz dosyalarla mı dolu?"
 category: articles
-tags: [akademik, doküman, verimlilik, wiki, yedekleme]
+tags: [akademik, doküman, verimlilik, wiki, yedekleme, populer]
 ---
 
 Bence araştırmacıların iş yükünü rahatlacak en önemli şeylerden biri de, hayli yoğun olan veri trafiğini rahatlacak çözümler bulmaktır. Bu yazımızda bu sorunun doküman yönetimi kısmını inceleyelim.

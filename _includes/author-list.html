@@ -1,0 +1,28 @@
+<!--{% if site.authors[page.author] %}
+	{% assign author = site.authors[page.author] %}
+{% else %}
+	{% assign author = site.authors["ozan"] %}
+{% endif %}
+-->
+<h3> Yazarlar </h3>
+<hr />
+
+{% for author_id in site.author_ids %}
+{% assign author = site.authors[author_id] %}
+
+<img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo" width="100" height="100"></a>
+<h4>{{ author.name }}</h4>
+
+{% if author.bio %}<p style="text-indent:0;">{{ author.bio}}</p>{% endif %}
+{% if author.home %}<p style="text-indent:0;"><a href="{{ author.home }}" target="_blank"><i class="icon-home"></i> WWW</a></p>{% endif %}
+{% if author.google_plus %}<p style="text-indent:0;"><a href="{{ author.google_plus }}" target="_blank"><i class="icon-google-plus"></i> Google+</a></p>{% endif %}
+{% if author.twitter %}<p style="text-indent:0;"><a href="http://twitter.com/{{ author.twitter }}" target="_blank"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
+{% if author.facebook %}<p style="text-indent:0;"><a href="http://facebook.com/{{ author.facebook }}" target="_blank"><i class="icon-facebook"></i> Facebook</a></p>{% endif %}
+{% if author.linkedin %}<p style="text-indent:0;"><a href="http://linkedin.com/in/{{ author.linkedin }}" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a></p>{% endif %}
+{% if author.github %}<p style="text-indent:0;"><a href="http://github.com/{{ author.github }}" target="_blank"><i class="icon-github"></i> Github</a></p>{% endif %}
+
+{% endfor %}
+
+<hr />
+
+<h6> Ben de yazmak <a href="{{ site.url }}/about" target="_blank">istiyorum</a>. </h6>
