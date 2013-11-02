@@ -2,7 +2,7 @@ title:            Asu'ya Tüyolar
 tagline:          Araştırmacılar için bilgisayar, internet tüyoları
 description:      A responsive Jekyll theme large featured images and solid typography.
 #Comment out url when working locally to resolve base urls correctly
-#url: http://ozank.github.io/asuyatuyolar
+url: http://ozank.github.io/asuyatuyolar
 
 # Owner/author information
 author_ids: [ozan,  htss, ismail]
