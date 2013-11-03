@@ -5,7 +5,7 @@ title: Herkesin Bilmesi Gereken Klavye Kısayolları
 time: 2012-12-30 16:30:00.000000000 +00:00
 description: "İki tuşla yapacağınız şeye iki saat uğraşmayın."
 category: articles
-tags: [powerpoint, verimlilik, windows, word]
+tags: [powerpoint, verimlilik, windows, excel-word]
 ---
 
 

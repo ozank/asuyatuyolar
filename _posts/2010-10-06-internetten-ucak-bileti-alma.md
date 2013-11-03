@@ -5,7 +5,7 @@ title: İnternetten Uçak Bileti Alma
 time: 2010-10-06 21:46:00.000000000 +01:00 
 description: "Hangi site daha iyi?"
 category: articles
-tags: [seyahat]
+tags: [yolculuk]
 --- 
 
 Biliyorum çok da akademik bir iş değil ama, yurtdışında yaşamaya başladıktan sonra ucuz bilet peşinde daha çok koşar olduk. Biraz araştırınca bu konuda işe yarabilecek bir sürü site olduğunu gördüm.

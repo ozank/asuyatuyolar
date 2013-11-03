@@ -5,7 +5,7 @@ title: '(Excel Kullanmadan) Hızlı Grafik Hazırlama : R'
 time: 2012-06-11 23:46:00.000000000 +01:00
 description: "Excel günü kurtarır, uzun vadede süründürür."
 category: articles
-tags: [excel, grafik, R]
+tags: [excel-word, grafik, R]
 ---
 
 Excel kullanarak hızlıca grafik hazırlanabileceğini düşünüyorsanız, malesef yanılıyorsunuz. Hızlıdan kastım yarına yetişecek rapor için 5 dakikada bir grafik hazırlamak değil. Evet, belki de bu işler için en uygunu Excel. Ancak işiniz dolasıyla sürekli grafik hazırlıyorsanız, ya da önünüzde yapılacak bir yüksek lisans/doktora tezi varsa, ya da büyük veri setleriyle uğraşmak durumundaysanız: Excel sadece günü kurtarır, uzun vadede süründürür.

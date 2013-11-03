@@ -5,7 +5,7 @@ title: İleri Dropbox Teknikleri-1
 time: 2011-02-12 23:56:00.000000000 +00:00
 description: "Dropboxla yapabilecekleriniz"
 category: [articles]
-tags: [yedekleme]
+tags: [dropbox, yedekleme]
 ---
 
 Eğer hala "Bu Dropbox ne ola ki?" diye soruyorsanız, öncelikle [şu yazımızı](http://asuyatuyolar.org/2009/12/dropbox.html) okuyabilir, ve aşağıdaki resime tıklayarak Dropbox'ı yükleyebilirsiniz.

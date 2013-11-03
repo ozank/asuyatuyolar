@@ -5,7 +5,7 @@ title: Şifrem neydi acaba? 123456?
 time: 2011-01-19 22:23:00.000000000 +00:00 
 description: "Siz hala her yere aynı şifreyi mi kullanıyorsunuz?"
 category: articles
-tags: [güvenlik,internet]
+tags: [güvenlik, internet]
 ---
 
 Artık şifre girmeden, kimliğinizi kanıtlamadan internette gezinmek pek mümkün değil. Mesela bu yazıyı yazmak için 3 kere şifre girmem gerekti.  Daha sonra e-maillere bakmak için, ne bileyim forum sitelerine girmek için, bankacılık işlemleri filan yapmak için ayrı ayrı şifreler girmek gerekecek. 

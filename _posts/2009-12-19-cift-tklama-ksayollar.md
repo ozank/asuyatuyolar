@@ -5,7 +5,7 @@ title: 'Excel Tüyoları'
 tagline: "Çİft tıklama kısayolları."
 #description: "Custom written post descriptions are the way to go... if you're not lazy."
 category: articles
-tags: [Excel-Word]
+tags: [excel-word]
 time: 2009-12-19 
 ---
 

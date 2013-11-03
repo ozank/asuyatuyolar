@@ -5,7 +5,7 @@ title: Microsoft Word ile Tez Yazma
 time: 2010-09-26 15:43:00.000000000 +01:00 
 description: "Word'u tez yazarken nasıl verimli kullanırım?"
 category: articles
-tags: [doküman, word, populer]
+tags: [doküman, excel-word, populer]
 ---
 
 Word'le tez ya da uzun bir doküman hazırlayacaksanız, word'u daktilo kullanır gibi kullanmayı bırakmalısınız. Aşağıdaki durumlar tanıdık geliyorsa, malesef word değil daktilo kullanıyorsunuz demektir.

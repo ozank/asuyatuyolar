@@ -5,7 +5,7 @@ title: Online CV Hazırlama
 time: 2010-04-29 22:49:00.000000000 +01:00 
 category: articles
 description: "İnternetten hızlı cv hazırlama"
-tags: [cv]
+tags: [kariyer]
 --- 
 
 Eğer yeni bir CV hazırlamanız gerekiyorsa ve Word'un şablonlarını sevmediyseniz ya da içeriği nasıl dolduracağınıza karar veremiyorsanız bu işler için güzel bir site var: [Jobspice](http://www.jobspice.com/)

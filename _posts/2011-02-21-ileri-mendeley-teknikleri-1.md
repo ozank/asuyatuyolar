@@ -5,7 +5,7 @@ title: İleri Mendeley Teknikleri
 time: 2011-02-21 10:41:00.000000000 +00:00
 description: "Mendeley'i yeterince verimli kullanıyor musunuz?"
 category: articles
-tags: [akademik,referans,mendeley]
+tags: [akademik, referans, mendeley]
 ---
 
 Madem Mendeley en popüler yazılarımızdan birisi, biraz daha detaylı bilgi vereyim dedim. Mendeley'in ne işe yaradığıyla ilgili henüz bir fikriniz yoksa, [konuyla ilgili ilk yazımıza]({{site.url}}/2009/12/mendeley-akademik-pdf-ve-referans) göz atabilirsiniz.

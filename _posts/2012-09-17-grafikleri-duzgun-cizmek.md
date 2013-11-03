@@ -5,7 +5,7 @@ title: Grafikleri Düzgün Çizmek
 time: 2012-09-17 18:53:00.000000000 +01:00
 description: "Grafik çizdirirken nelere dikkat etmek gerekir"
 category: articles
-tags: [excel, grafik]
+tags: [excel-word, grafik]
 ---
 
 Güzel grafik çizmek için kullanabileceğiniz programlardan daha önce bahsetmiştik. [Benim favorim R](http://www.asuyatuyolar.org/2012/06/excel-kullanmadan-hzl-grafik-hazrlama-r.html) olsa da, [başka başka araçlar](http://www.asuyatuyolar.org/2012/06/excel-kullanmadan-guzel-grafik-hazrlama.html) da mevcut. Ancak güzel grafikler için yapılması gerekenler üç aşağı beş yukarı aynı.

@@ -5,7 +5,7 @@ title: (Excel kullanmadan) Güzel Grafik Hazırlama
 time: 2012-06-23 23:54:00.000000000 +01:00
 description: "Excel grafikleri sizce de biraz çirkin değil mi?"
 category: articles
-tags: [akademik, excel, grafik, sunum] 
+tags: [akademik, excel-word, grafik, sunum] 
 ---
 
 Ne zaman aşağıdaki bir grafik içeren bir makale ya da rapor okusam, içimde bir önyargı oluşuyor. Tabi ki grafikler bir çalışmanın değerini arttırmaz ama düşünmeden edemiyorum, eğer grafikler böyle üstünkörü hazırlanmışsa, veriler de üstünkörü mü toplanmıştır acaba diye.
