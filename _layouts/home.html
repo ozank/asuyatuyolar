@@ -27,21 +27,8 @@
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
 
-  <h3>Son Yazılar</h3>
-  <hr />
-  {% for post in site.categories.articles limit:7 %}    
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
-    <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-  </article>
-  {% endfor %}
+{{ content }}
 
-  <a href="{{ site.url}}/articles" class="btn btn-small pull-right">Tüm yazılar</a>
-
-<h3> Etiketler </h3>
- <hr />
-<!-- Etiketler -->
-<div class="tag-cloud">{% for tag in site.tags %}{% if tag[1].size > 1 %}<a href="tag/#{{ tag | first }}">{{ tag | first }}<span>{{ tag[1].size }}</span></a>, {% endif %}{% endfor %}</a>
 </div>
 
 </div><!-- /#index -->

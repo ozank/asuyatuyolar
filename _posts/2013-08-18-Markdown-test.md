@@ -5,6 +5,7 @@ description: "Markdown'in yetenekleri"
 modified: 2013-08-18-31
 category: articles
 tags: [markdown]
+published: false
 ---
 
 ## Denklemler

@@ -3,6 +3,7 @@ layout: post
 title: "A Post with Images"
 description: "Examples and code for displaying images in posts."
 category: articles
+published: false
 tags: [sample post, images, test]
 ---
 

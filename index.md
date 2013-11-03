@@ -5,4 +5,4 @@ tags: [Jekyll,asuya tuyolar, asuyatuyolar, asu'ya tuyolar,asuya tüyolar, asuyat
 
 ---
 
-
+ {% include latest_posts.html %} 
