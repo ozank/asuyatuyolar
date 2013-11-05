@@ -6,7 +6,7 @@ modified: 2013-11-04-21-00
 category: articles
 ---
 
-Uzun bir aradan sonra tekrar merhaba! Yaklaşık 6 aydır yeni yazı yazamadım ama mazeretim büyük: [tezimle](http://dl.dropboxusercontent.com/u/2490601/Ozan_Thesis.pdf) boğuşuyordum. Artık rahatladım sayılır ve tekrar Asuya Tüyolar'la yeniden ilgilenmeye başlayabilirim.
+Uzun bir aradan sonra tekrar merhaba! Yaklaşık 6 aydır yeni yazı yazamadım ama mazeretim büyük: [tezimle](http://dl.dropboxusercontent.com/u/2490601/Ozan_Thesis.pdf) boğuşuyordum. Artık rahatladım sayılır ve Asuya Tüyolar'la yeniden ilgilenmeye başlayabilirim.
 
 ## Yeni Tasarım
 
