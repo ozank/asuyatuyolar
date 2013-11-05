@@ -10,7 +10,7 @@
 <p>{{ author.bio }}</p>
 
 {% if author.home %}<p style="text-indent:0;margin-top:1.5em;"><a href="{{ author.home }}" target="_blank"><i class="icon-home"></i> WWW</a></p>{% endif %}
-{% if author.google_plus %}<p style="text-indent:0;"><a href="https://plus.google.com/u/0/{{ author.google_plus }}" target="_blank"><i class="icon-google-plus"></i> Google+</a></p>{% endif %}
+{% if author.google_plus %}<p style="text-indent:0;"><a href="https://plus.google.com/{{ author.google_plus }}?rel=author" target="_blank"><i class="icon-google-plus"></i> Google+</a></p>{% endif %}
 {% if author.twitter %}<p style="text-indent:0;"><a href="http://twitter.com/{{ author.twitter }}" target="_blank"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
 {% if author.facebook %}<p style="text-indent:0;"><a href="http://facebook.com/{{ author.facebook }}" target="_blank"><i class="icon-facebook"></i> Facebook</a></p>{% endif %}
 {% if author.linkedin %}<p style="text-indent:0;"><a href="http://linkedin.com/in/{{ author.linkedin }}" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a></p>{% endif %}
