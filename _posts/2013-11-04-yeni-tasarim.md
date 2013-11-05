@@ -10,7 +10,9 @@ Uzun bir aradan sonra tekrar merhaba! Yaklaşık 6 aydır yeni yazı yazamadım 
 
 ## Yeni Tasarım
 
-Ne zamandır blogu Blogger ve Google'dan kurtarmak istiyordum ancak kafama göre de birşey bulamamıştım. Geçenlerde [Github](http://github.com)`ın web sitelerini yayınlamak için [Github Pages](http://pages.github.com/) servisini başlattığını görünce aklım çelindi. Böylece blogu ücretsiz, reklamsız ve açık kaynak olarak yayınlamak mümkün oldu. 
+Ne zamandır blogu Blogger ve Google'dan kurtarmak istiyordum ancak kafama göre de birşey bulamamıştım. Geçenlerde [Github](http://github.com)`ın web sitelerini yayınlamak için [Github Pages](http://pages.github.com/) servisini başlattığını görünce aklım çelindi. Böylece blogu ücretsiz, reklamsız ve açık kaynak olarak yayınlamak mümkün oldu.  Hem artık sayfa tasarımı daha temiz, daha kullanışlı.
+
+![]({{site.url}}/images/github.jpeg)
 
 ## Açık Kaynak
 
@@ -18,15 +20,17 @@ Benim en çok hoşuma giden özelliği, sitenin herşeyinin açık kaynak olarak
 
 - [Asu'ya Tüyolar Kaynak Kodu](https://github.com/ozank/asuyatuyolar/tree/gh-pages/_posts)
 
-Eğer yeni yazı eklemek ya da mevcut yazılara eklemeler yapmak isterseniz, tek yapmanız gereken GitHub'daki kodlar üstünde değişiklik yapmak, detaylar için [hakkında]({{site.url}}/about) sayfasına göz atabilirsiniz.
+Eğer siteye yeni yazı eklemek ya da mevcut yazılara eklemeler yapmak isterseniz, tek yapmanız gereken GitHub'daki dosyalar üstünde değişiklik yapmak, detaylar için [hakkında]({{site.url}}/about) sayfasına göz atabilirsiniz. Yeni yazarları ağırlamaktan memnunıyet duyarız.
 
 ## Markdown
 
 Blogger'ın yıllardır geliştirilmeyen arayüzü ile yazmak bazen gerçekten eziyete dönüşüyordu. Şu anda site arka planda [Jeykll](http://jekyllrb.com/) ve [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) kullanıyor. Böylece blog yazılarını artık düz metin dosyası olarak hazırlayacağım (Markdown hakkında önceden [şu yazımızda]({{site.url}}/2012/06/pandoc-ile-metin-dosyalarn-donusturmek.html) bahsetmiştik). 
 
+![]({{site.url}}/images/jekyll.png)
+
 Markdown ile içerik ve tasarımı tamanen ayırabiliyorsunuz (tıpkı LaTeX gibi), ayrıca internet yokken metin dosyası üstünde yazımı hazırlayıp Github'a yayınlamak üzere gönderebileceğim.
 
-Markdown'ın işimi kolaylaştıran birçok özelliği daha var:
+Markdown'ın bundan sonraki yazılarda işimi kolaylaştıracağını düşündüğüm birçok özelliği var:
 
 ### Denklemler
 
@@ -94,3 +98,6 @@ m = zeros(2, 3)   % Creates a 2x3 matrix of zeros
 v = ones(1, 3)    % Creates a 1x3 matrix (row vector) of ones
 m = eye(3)        % Identity matrix (3x3)
 {% endhighlight %}
+
+Neyse şimdilik böyle, peki siz yeni tasarımı nasıl buldunuz? Yorumlarınızı bekliyorum.
+
