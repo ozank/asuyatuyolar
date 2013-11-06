@@ -26,3 +26,5 @@ Yok yeni yazıyla filan uğraşamam deyip de olan yazılara birkaç ekleme yapma
 [![]({{site.url}}/images/github_edit.png)]({{site.url}}/images/github_edit.png)
 
 Ayrıca, her türlü sorunuz için bana [şu linkden](http://www.see.ed.ac.uk/~okeysan/) istediğiniz zaman ulaşabilirsiniz.
+
+{% include comments.html %}
