@@ -14,15 +14,15 @@ Benim gözüme çarpan seçeneklerden bazıları şunlar:
 
 [![]({{site.url}}/images/office_mess.JPG)]({{site.url}}/images/office_mess.JPG)
 
-[Trello:](https://trello.com/)
+[Trello:]( https://trello.com/ozank/recommend)
 ------------------------------
 
-Eğer proje yönetiminin isminden bile haz etmiyorsanız, bana daha basit birşeyler lazım diyorsanız [Trello](https://trello.com/) size göre. Trello proje yöneticisinden daha çok yapılacak işler planlayıcısı. Arayüzü çok kolay ve sanki bir mantar pano gibi. Tabi asıl güzelliği bu panoları proje arkadaşlarınızla paylaşabilmeniz ve ortak düzenleyebilmeniz. Özellikle konferans, toplantı gibi işlerin ya da öğrenci projelerinin organizasyonlarında bence çok faydalı olabilir. Üstelik mobil uygulaması da var.
+Eğer proje yönetiminin isminden bile haz etmiyorsanız, bana daha basit birşeyler lazım diyorsanız [Trello](h https://trello.com/ozank/recommend/) size göre. Trello proje yöneticisinden daha çok yapılacak işler planlayıcısı. Arayüzü çok kolay ve sanki bir mantar pano gibi. Tabi asıl güzelliği bu panoları proje arkadaşlarınızla paylaşabilmeniz ve ortak düzenleyebilmeniz. Özellikle konferans, toplantı gibi işlerin ya da öğrenci projelerinin organizasyonlarında bence çok faydalı olabilir. Üstelik mobil uygulaması da var.
 Yapılacak işlerinize süre, etiket, dosya ekleyebilir, sonra bunlara göre sınıflandırabilirsiniz.
 
 Trello'ya alternatif olabilecek diğer bir program ise [Pivotal Tracker](https://www.pivotaltracker.com/).  Özellikle yazılım projeleri için geliştirilmiş. Büyük bir projeyi ufak işlere bölüp, takibini kolaylaştırıyor. Üstelik, öğrencilere ve kişisel kullanıcılara [ücretsiz](http://www.pivotaltracker.com/help/faq#istrackerreallyfreeforpublicprojectsindividualusenonprofitsandeducators).
 
-[![]({{site.url}}/images/trello.jpg)](https://trello.com/)
+[![]({{site.url}}/images/trello.jpg)]( https://trello.com/ozank/recommend/)
 
 [FreedCamp:](https://freedcamp.com/)
 ------------------------------------
