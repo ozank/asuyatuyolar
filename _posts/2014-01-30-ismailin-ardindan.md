@@ -17,44 +17,58 @@ Bazı insanlar vardır, daha ilk tanışmada çok iyi anlaşacağınızı hemen 
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/40EyAUQekL0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Bu toprakta kalır adın
 
-Tohumların arasında
+>Bu toprakta kalır adın
 
-Yeşilinde tarlaların
+>Tohumların arasında
 
-Başakların sarısında
+>Yeşilinde tarlaların
 
----
+>Başakların sarısında
 
-Yıllar geçse de aradan
+-
 
-Kopar gelir ırmaklardan
+>Yıllar geçse de aradan
 
-Işır yine kurşunlanan
+>Kopar gelir ırmaklardan
 
-Dostlarının yarasında
+>Işır yine kurşunlanan
 
----
+>Dostlarının yarasında
 
-Günü gelir dağa çıkar
-Yıldızlardan şiir çeker
-Kanımızı siler yıkar
-Suların en durusunda
+-
 
-Bir annedir bir kardeştir
-Ovalarda bir ateştir
-Sırasında hayat verir
-Ölüm saçar sırasında
+>Günü gelir dağa çıkar
 
-Bayrak olur bize yarın
-Rüzgarıyla ilkbaharın
-Dalgalanır genç kızların
-Gözlerinin karasında
+>Yıldızlardan şiir çeker
+
+>Kanımızı siler yıkar
+
+>Suların en durusunda
+
+-
+
+>Bir annedir bir kardeştir
+
+>Ovalarda bir ateştir
+
+>Sırasında hayat verir
+
+>Ölüm saçar sırasında
+
+-
+
+>Bayrak olur bize yarın
+
+>Rüzgarıyla ilkbaharın
+
+>Dalgalanır genç kızların
+
+>Gözlerinin karasında
 
 >Ülkü Tamer
 
-Bu arada İsmail'in paylaştığı güzel yazıları yavaş yavaş bloga ekleyeceğim. Ancak [ismailari.com](http://ismailari.com) sitesinin ömrünü uzatmak istiyorsanız. İsmail'in kullandığı [hosting şirketine](http://ismailari.com/blog/ismailari-comu-destekleyin/) üye olarak katkıda bulunabilirsiniz.
+Son not: İsmail'in kendi sitesinde paylaştığı güzel yazıları kaybolup gitmesin diye yavaş yavaş buraya ekleyeceğim. Ancak [ismailari.com](http://ismailari.com) sitesinin ömrünü uzatmak istiyorsanız. İsmail'in kullandığı [hosting şirketine](http://ismailari.com/blog/ismailari-comu-destekleyin/) üye olarak katkıda bulunabilirsiniz.
 
 
 
