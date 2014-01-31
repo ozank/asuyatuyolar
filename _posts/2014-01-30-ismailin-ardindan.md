@@ -18,53 +18,53 @@ Bazı insanlar vardır, daha ilk tanışmada çok iyi anlaşacağınızı hemen 
 <iframe width="420" height="315" src="//www.youtube.com/embed/40EyAUQekL0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
->Bu toprakta kalır adın
+Bu toprakta kalır adın
 
->Tohumların arasında
+Tohumların arasında
 
->Yeşilinde tarlaların
+Yeşilinde tarlaların
 
->Başakların sarısında
-
--
-
->Yıllar geçse de aradan
-
->Kopar gelir ırmaklardan
-
->Işır yine kurşunlanan
-
->Dostlarının yarasında
+Başakların sarısında
 
 -
 
->Günü gelir dağa çıkar
+Yıllar geçse de aradan
 
->Yıldızlardan şiir çeker
+Kopar gelir ırmaklardan
 
->Kanımızı siler yıkar
+Işır yine kurşunlanan
 
->Suların en durusunda
-
--
-
->Bir annedir bir kardeştir
-
->Ovalarda bir ateştir
-
->Sırasında hayat verir
-
->Ölüm saçar sırasında
+Dostlarının yarasında
 
 -
 
->Bayrak olur bize yarın
+Günü gelir dağa çıkar
 
->Rüzgarıyla ilkbaharın
+Yıldızlardan şiir çeker
 
->Dalgalanır genç kızların
+Kanımızı siler yıkar
 
->Gözlerinin karasında
+Suların en durusunda
+
+-
+
+Bir annedir bir kardeştir
+
+Ovalarda bir ateştir
+
+Sırasında hayat verir
+
+Ölüm saçar sırasında
+
+-
+
+Bayrak olur bize yarın
+
+Rüzgarıyla ilkbaharın
+
+Dalgalanır genç kızların
+
+Gözlerinin karasında
 
 >Ülkü Tamer
 
