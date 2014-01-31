@@ -18,14 +18,24 @@ Bazı insanlar vardır, daha ilk tanışmada çok iyi anlaşacağınızı hemen 
 <iframe width="420" height="315" src="//www.youtube.com/embed/40EyAUQekL0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Bu toprakta kalır adın
+
 Tohumların arasında
+
 Yeşilinde tarlaların
+
 Başakların sarısında
 
+---
+
 Yıllar geçse de aradan
+
 Kopar gelir ırmaklardan
+
 Işır yine kurşunlanan
+
 Dostlarının yarasında
+
+---
 
 Günü gelir dağa çıkar
 Yıldızlardan şiir çeker
