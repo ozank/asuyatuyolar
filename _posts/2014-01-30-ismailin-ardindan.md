@@ -3,7 +3,7 @@ layout: post
 title: İsmail'in Ardından...
 modified: 2014-01-30-20-00
 category: articles
-published: false
+published: true
 ---
 
 Bazı insanlar vardır, daha ilk tanışmada çok iyi anlaşacağınızı hemen hissedersiniz. Ama muhabbeti ilerletmeye fırsat kalmadan, günlük koşturmacalar sizi başka yönlere savurur, ayrı yerlerde, farklı kişilerle, hayatın hengamesinde yuvarlanır gidersiz. Böyle teğet kaçırdığım arkadaşlara üzüldüğüm çok oldu ama hiçbiri İsmail kadar içimi sızlatmadı. Çok ortak arkadaşımız olmasına rağmen, henüz yüzyüze tanışma fırsatı bulamamıştık. İnternet üstünden birbirimizi bulmuştuk, birlikte birşeyler üretmeye çalışmak oldukça keyifliydi. Asu'ya Tüyolara yazılarıyla renk kattığı gibi, başka birkaç proje de yapıyorduk. Bunlardan beni en heyecanlandıranı İsmail'in [Açık Ders](http://www.youtube.com/user/acikders) projesisi genişletip, yaygınlaştrmaktı. Olmadı. 
