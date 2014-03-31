@@ -17,5 +17,30 @@ image:
 
 ## Online LaTeX
 
+- [Share LaTeX](https://www.sharelatex.com/)
+- [Authorea (LaTeX-Markdown)](https://authorea.com/)
+- [Write LaTeX](https://www.writelatex.com/)
+- [Online LaTex Derleyici](http://latex.aslushnikov.com/)
 
-sdgdsg
+## LaTeX Şablonları
+
+- [Genel Şablonlar](http://www.latextemplates.com/)
+- [Beamer Şablonlar](http://latex.simon04.net/)
+- [Beamer tasarım matriksi](http://www.hartwork.org/beamer-theme-matrix/)
+
+
+
+## Online Metin Editörü
+
+- [Draft](https://draftin.com/)
+
+# Versiyon Kontrolü
+
+- [GitHub](https://github.com/)
+- [Banyan](https://banyan.co/)
+
+# Açık Erişim
+
+## Açık Erişim Dergiler
+
+-[Plos One](http://www.plosone.org/)
