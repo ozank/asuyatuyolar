@@ -1,7 +1,7 @@
 ---
 layout: post-index
-permalink: /articles/index.html
-title: Arşiv
+permalink: /links/index.html
+title: Bağlantılar
 tagline: Faydalı Bağlantılar
 tags: []
 image:
