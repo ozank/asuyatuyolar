@@ -1,6 +1,6 @@
 title:            Asu'ya Tüyolar
 tagline:          Araştırmacılar için bilgisayar, internet tüyoları
-description:      A responsive Jekyll theme large featured images and solid typography.
+description:      Araştırmacılar için bilgisayar, internet tüyoları
 #Comment out url when working locally to resolve base urls correctly
 #url: http://ozank.github.io/asuyatuyolar
 url: http://asuyatuyolar.org
@@ -11,37 +11,37 @@ authors:
   ozan:
     name:           Ozan Keysan
     avatar:         ozan.jpg
-    bio:            "Edinburgh Üniversitesi"
+    bio:            "ODTÜ"
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
-    home:     "http://www.see.ed.ac.uk/~okeysan"
+    home:     "http://ozan.keysan.me"
     twitter:  "asuya_tuyolar"
-    facebook:       
+    facebook:
     github:         "ozank"
-    linkedin:       "okeysan"      
+    linkedin:       "okeysan"
     # For Google Authorship https://plus.google.com/authorship
-    google_plus:  101596327621803798644  
+    google_plus:  101596327621803798644
   htss:
     name:           H. Tuğça Şener Şatır
     avatar:         htss.jpg
     bio:            "Queen Belfast Üniversitesi"
-    home:     "http://star.arm.ac.uk/~htss/"
-    twitter:        
-    facebook:       
-    github:         
-    linkedin:           
+    home:     "https://plus.google.com/+HTugcaSenerSatir/posts"
+    twitter:
+    facebook:
+    github:
+    linkedin:
     # For Google Authorship https://plus.google.com/authorship
-    google_plus:    
+    google_plus:
   ismail:
     name:           İsmail Arı
     avatar:         ismailari.jpg
-    bio:            "Boğaziçi Üniversitesi"
+    bio:            ""
     home:     "http://ismailari.com"
-    twitter:  "ismailari"            
-    facebook:       
-    github:         
-    linkedin:       "ismailari"        
+    twitter:  "ismailari"
+    facebook:
+    github:
+    linkedin:       "ismailari"
     # For Google Authorship https://plus.google.com/authorship
-    google_plus:   
+    google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-42934492-1
@@ -81,7 +81,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10

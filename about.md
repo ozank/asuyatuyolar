@@ -2,12 +2,12 @@
 layout: page_all_authors
 permalink: /about/index.html
 title: Hakkında
-tags: 
+tags:
 #image:
 #  feature: asuyatuyolar_header.png
 ---
 
-Merhaba! Bu sitede daha çok üniversite öğrencilerinin ve akademisyenlerin işlerine yarayabilecek yazılar yazmaya çalışıyoruz. Blogda önceliğimiz ücretsiz ve açık erişim kaynaklar. 
+Merhaba! Bu sitede daha çok üniversite öğrencilerinin ve akademisyenlerin işine yarayabilecek yazılar yazmaya çalışıyoruz. Blogda önceliğimiz ücretsiz ve açık erişim kaynaklar. 
 
 Bu websitede yayınlanan yazıların hiçbir haklı saklı değildir. Kaynak göstererek ya da göstermeyerek her türlü ortamda paylaşabilirsiniz. Bu site [Jekyll](http://jekyllrb.com) kullanılarak [Minimal Mistakes](http://mademistakes.com) tasarımından esinlenerek hazırlanmıştır ve [Github](http://github.com/) üzerinde yayınlanmaktadır.
 
@@ -25,4 +25,4 @@ Yok yeni yazıyla filan uğraşamam deyip de olan yazılara birkaç ekleme yapma
 
 [![]({{site.url}}/images/github_edit.png)]({{site.url}}/images/github_edit.png)
 
-Ayrıca, her türlü sorunuz için bana [şu linkden](http://www.see.ed.ac.uk/~okeysan/) istediğiniz zaman ulaşabilirsiniz.
+Ayrıca, her türlü sorunuz için bana [şu linkden](http:/ozan.keysan.me) istediğiniz zaman ulaşabilirsiniz.
