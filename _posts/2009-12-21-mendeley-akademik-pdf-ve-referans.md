@@ -1,11 +1,11 @@
---- 
-layout: post 
-name: mendeley-akademik-pdf-ve-referans 
-title: Mendeley - Akademik PDF ve Referans Programı 
+---
+layout: post
+name: mendeley-akademik-pdf-ve-referans
+title: Mendeley - Akademik PDF ve Referans Programı
 time: 2009-12-21
 description: "Mendeley ile tüm makale arşivinizi kolayca düzenleyebilirsiniz."
 category: articles
-tags: [referans] 
+tags: [referans]
 ---
 
 Eğer makale, ödev hazırlarken, tez yazarken hangi alıntının hangi makalede geçtiğini hatırlamıyorsanız ya da aradığınız dosyayı bulmak için klasör klasör geziyorsanız. Ya da alıntı yapcağınız kaynağı bulsanız bile amele gibi kaynakçaya yazarları, başlığı filan tek tek giriyorsanız bir referans düzenleme programına geçmenin vaktidir bence. Yok bu dediklerim için herhangi bir program kullanıyosanız (Endnote, Zotero,Papers,JabRef ...) ve memnunsanız yazının devamını okumaya gerek duymayabilirsiniz.
@@ -27,7 +27,7 @@ Referans eklemek için illa da dosyanın bilgisayarda kayıtlı olmasına gerek 
 
 [![](http://www.mendeley.com/graphics/commonnew/gather-papers-from-everywhere_15804.jpg)](http://www.mendeley.com/graphics/commonnew/gather-papers-from-everywhere_15804.jpg)
 
-İşime yarayan başka bir özelliği de, (daha önce anlattığımız [Dropbox](http://db.tt/uhZyT3wg) programına benzer) birden fazla bilgisayar arasında eşleme yapabilmesi, ya da program yüklü olmayan bilgisayarlarda da internet aracılığıyla arşive ve referanslara ulaşabiliyor olmanız.
+İşime yarayan başka bir özelliği de, (daha önce anlattığımız [Dropbox](https://db.tt/lUZBSYw7) programına benzer) birden fazla bilgisayar arasında eşleme yapabilmesi, ya da program yüklü olmayan bilgisayarlarda da internet aracılığıyla arşive ve referanslara ulaşabiliyor olmanız.
 Fikir vermesi açısından Mendeley'le ilgili bulduğum Türkçe bir sunumu da ekliyorum.
 
 <iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/62446587/content?start_page=1&view_mode=slideshow&access_key=key-1mzy45dub6z6ud8nvk2e" data-auto-height="true" data-aspect-ratio="1.2938689217759" scrolling="no" id="doc_5928" width="80%" height="480" frameborder="0"></iframe><script type="text/javascript">(function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "http://www.scribd.com/javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })();</script><br />
@@ -37,4 +37,3 @@ Fikir vermesi açısından Mendeley'le ilgili bulduğum Türkçe bir sunumu da e
 -   [İleri Mendeley Teknikleri](http://asuyatuyolar.org/2011/02/ileri-mendeley-teknikleri-1.html)
 -   [Latex ile Makale Yazma](http://asuyatuyolar.org/2011/04/latexle-makale-yazma.html)
 -   [Word ile Tez Yazma](http://asuyatuyolar.org/2010/09/microsoft-word-ile-tez-yazma.html)
-
