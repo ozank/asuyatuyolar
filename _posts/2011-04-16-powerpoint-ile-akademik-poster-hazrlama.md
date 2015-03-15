@@ -220,7 +220,7 @@ Posterinizi `pdf`'ye dönüştürürken, yazıcı özellikleri seçeneğinden, g
 
 Bu yazıda posteri güzel gösterecek bilgileri paylaşmaya çalıştım ama tabi ki bir posterin asıl değerini belirleyen içindeki bilgilerdir. Kötü içerikli bir poster ne kadar süslenirse süslensin adam olmaz. Ama iyi ve değerli içerik, kötü sunulduğu zaman da değeri açığa çıkmayabilir. Konferanslarda hızlıca gezerken, sırf kötü sunulduğu için (kötü grafikler, karışık yazılar, çok yazı az görsel vs.) soru sormadan, konuşmadan geçtiğiniz posterleri hatırlayın, ne demek istediğimi daha iyi anlarsınız.
 
-Buraya kadar sabredip okuyanlar için, bende sunacağım posteri paylaşayım. Küçük `.png` formatı aşağıda. İsterseniz [PDF formatını](http://dl.dropbox.com/u/2490601/keysan_PHD_2ndyear_poster_ver2.pdf) ya da [PowerPoint formatını](http://dl.dropbox.com/u/2490601/keysan_PHD_2ndyear_poster_ver2.ppt) da indirebilirsiniz. (Bonus: başka bir konferans için yeni hazırladığım  posterin[PowerPoint formatını (yatay A0)](http://dl.dropbox.com/u/2490601/keysan_IEMDC_2011_poster.ppt) da ekledim 11/05/2011).
+Buraya kadar sabredip okuyanlar için, bende sunacağım posteri paylaşayım. Küçük `.png` formatı aşağıda. İsterseniz [PDF formatını](http://dl.dropbox.com/u/2490601/keysan_PHD_2ndyear_poster_ver2.pdf) ya da [PowerPoint formatını](https://dl.dropboxusercontent.com/u/2490601/for%20download/posters/keysan_PHD_2ndyear_poster_ver2.ppt) da indirebilirsiniz. (Bonus: başka bir konferans için yeni hazırladığım  posterin[PowerPoint formatını (yatay A0)](https://dl.dropboxusercontent.com/u/2490601/for%20download/posters/keysan_IEMDC_2011_poster.ppt) da ekledim 11/05/2011).
 
 [![]({{site.url}}/images/keysan_PHD_2ndyear_poster_ver2.png)]({{site.url}}/images/keysan_PHD_2ndyear_poster_ver2.png)
 
