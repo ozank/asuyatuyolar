@@ -49,7 +49,7 @@ Temel sürümü bile oldukça kapsamlı olsa da programı ekstra modül (wiki, f
 
 [Asana](http://asana.com/) 30 üyeliğe kadar ücretsiz ve bedava sürümünde tüm özelliklere ulaşabiliyorsunuz. Site daha çok projede görev atama üstüne kurulu. Arayüzü oldukça akıcı ve klavye kısayolları ile birçok işi hızlıca yapabilirsiniz. Ayrıca mobil uygulaması da oldukça güzel duruyor. Ekibiniz 30 kişiden azsa deneyebilirsiniz.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/liO5VbbIqIs?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/IMAFWVLGFyw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 [Redmine:](http://www.redmine.org/)
 -----------------------------------

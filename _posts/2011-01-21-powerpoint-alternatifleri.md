@@ -13,11 +13,11 @@ Bilmiyorum sizin hazırladığınız sunumlar nasıl ama ben dinlediğim sunumla
 ![]({{site.url}}/images/boring_lecture.jpg)
 
 Microsoft PowerPoint sunum tekelini elinde tutuyor, tepegöz+asetat'a karşı saçma sapan ses ve görüntü efektleri dışında da bir numarası olduğu söylenemez. En çok sevmediğim kısmı ise ortak çalışmaya, web üstünden paylaşmaya hiç uygun olmaması.
-Eğer sizde PowerPoint'ten kurtulabilmek için fırsat arıyorsanız işte bazı seçenekler:
+Eğer siz de PowerPoint'ten kurtulabilmek için fırsat arıyorsanız işte bazı seçenekler:
 
 ## [Google Docs Presentation:](http://docs.google.com/)
 
-[Google Dokümanlardan](http://docs.google.com/) daha önce [şu yazımızda](http://asuyatuyolar.org/2010/08/internet-ustunden-ofis-programlar.html) bahsetmiştik. Eğer gmail kullanıyorsanız(ki bence kullanın), google dokümanlarını kullanmaya hemen başlayabilirsiniz. Tek yapmanız gereken [Google Docs](http://docs.google.com/) ana sayfasından yeni bir sunum dosyası oluşturmak.
+[Google Dokümanlardan](http://docs.google.com/) daha önce [şu yazımızda](http://asuyatuyolar.org/2010/08/internet-ustunden-ofis-programlar.html) bahsetmiştik. Eğer gmail kullanıyorsanız (ki bence kullanın), google dokümanlarını kullanmaya hemen başlayabilirsiniz. Tek yapmanız gereken [Google Docs](http://docs.google.com/) ana sayfasından yeni bir sunum dosyası oluşturmak.
 
 [![]({{site.url}}/images/google_sunum1.png)]({{site.url}}/images/google_sunum1.png)
 

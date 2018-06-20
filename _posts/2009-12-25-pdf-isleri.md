@@ -16,7 +16,7 @@ Diğer programımızın özellikleri biraz daha fazla, Pdf lere not almak, üst�
 
 #PDF'ye Dönüştürme:
 
-Başınıza gelmiştir, yolladığınız dokümanı karşı taraf açamaz (özellikle Office 2007-2012 kullanıyorsanız), açsa bile formatı kaymış olur, olur da olur. Bunun önüne geçmenin en güzel yolu, ödevlerinizi, raporlarınız, CV'lerinizi pdf'ye çevirip yollamaktır. Üstelik bunun için paralı yazılımlara ihtiyacınız yok. [CutePDF](http://www.cutepdf.com/) diye güzel bir program var. Bilgisayarınıza sanal olarak bir yazıcı ekliyor. Herhangi bir dokümanı, resmi, sunumu, o sanal yazıcıdan sanki çıktı alıyormuş gibi  kolaylıkla pdf'ye çevirebilirsiniz.
+Başınıza gelmiştir, yolladığınız dokümanı karşı taraf açamaz (özellikle Office 2007-2012 kullanıyorsanız), açsa bile formatı kaymış olur, olur da olur. Bunun önüne geçmenin en güzel yolu, ödevlerinizi, raporlarınızı, CV'lerinizi pdf'ye çevirip yollamaktır. Üstelik bunun için paralı yazılımlara ihtiyacınız yok. [CutePDF](http://www.cutepdf.com/) diye güzel bir program var. Bilgisayarınıza sanal olarak bir yazıcı ekliyor. Herhangi bir dokümanı, resmi, sunumu, o sanal yazıcıdan sanki çıktı alıyormuş gibi  kolaylıkla pdf'ye çevirebilirsiniz.
 
 [![](http://www.educationworld.com/a_tech/gadget/images/gadget_018.gif)](http://www.educationworld.com/a_tech/gadget/images/gadget_018.gif)
 

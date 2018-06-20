@@ -12,6 +12,6 @@ Eğer yeni bir CV hazırlamanız gerekiyorsa ve Word'un şablonlarını sevmediy
 
 [![]({{site.url}}/images/jobspice.jpg)](http://www.jobspice.com/)
 
-CV'nizi değişik konu başlıklarından, format derdini düsünmeden çabucak oluşturabilirsiniz.  Üstelik üyelik filan da istemiyor. Ama kaydedip, daha sonra devam etmek isterseniz ya da internet üstünden yayınlamak isterseniz üye de olabilirsiniz.
+CV'nizi değişik konu başlıklarından, format derdini düşünmeden çabucak oluşturabilirsiniz.  Üstelik üyelik filan da istemiyor. Ama kaydedip, daha sonra devam etmek isterseniz ya da internet üstünden yayınlamak isterseniz üye de olabilirsiniz.
 CV'nizi oluşturduktan sonra PDF formatında kolaylıkla kaydedebilirsiniz...
 

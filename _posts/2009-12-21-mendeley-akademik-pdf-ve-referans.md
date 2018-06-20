@@ -8,7 +8,7 @@ category: articles
 tags: [referans]
 ---
 
-Eğer makale, ödev hazırlarken, tez yazarken hangi alıntının hangi makalede geçtiğini hatırlamıyorsanız ya da aradığınız dosyayı bulmak için klasör klasör geziyorsanız. Ya da alıntı yapcağınız kaynağı bulsanız bile amele gibi kaynakçaya yazarları, başlığı filan tek tek giriyorsanız bir referans düzenleme programına geçmenin vaktidir bence. Yok bu dediklerim için herhangi bir program kullanıyosanız (Endnote, Zotero,Papers,JabRef ...) ve memnunsanız yazının devamını okumaya gerek duymayabilirsiniz.
+Eğer makale, ödev hazırlarken, tez yazarken hangi alıntının hangi makalede geçtiğini hatırlamıyorsanız ya da aradığınız dosyayı bulmak için klasör klasör geziyorsanız. Ya da alıntı yapacağınız kaynağı bulsanız bile amele gibi kaynakçaya yazarları, başlığı filan tek tek giriyorsanız bir referans düzenleme programına geçmenin vaktidir bence. Yok bu dediklerim için herhangi bir program kullanıyorsanız (Endnote, Zotero,Papers,JabRef ...) ve memnunsanız yazının devamını okumaya gerek duymayabilirsiniz.
 
 Programımızın adı: [Mendeley](https://www.mendeley.com). Resme tıklayıp programı kurabilirsiniz.
 

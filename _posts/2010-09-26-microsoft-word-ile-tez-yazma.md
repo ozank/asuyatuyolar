@@ -14,7 +14,7 @@ Word'le tez ya da uzun bir doküman hazırlayacaksanız, word'u daktilo kullanı
 
 -   Metinleri hizalamak için boşluk tuşuna basılı tutuyorsanız
 -   Numaralandırma işlerini elle yapıyorsanız
--   Her paragrafda paragraf başını hizalamaya çalışıyorsanız
+-   Her paragrafta paragraf başını hizalamaya çalışıyorsanız
 -   Başlıkların fontunu, boyutunu her seferinde tek tek ayarlıyorsanız
 -   Yeni sayfaya geçmek için enter tuşuna durmadan basıyorsanız. 
 
@@ -91,7 +91,7 @@ Eğer bu bilgiler sizi kesmediyse ve daha fazla kaynak arıyorsanız, aşağıda
 
 [Writing Thesis in Word](http://dl.dropbox.com/u/2490601/writing%20thesis%20in%20word.pdf)
 
-Umarım bu yazı, Word'u daha etkin kullanmanıza yardımcı olmuştur. Uzun süre başından kalkamayacağınız bu programı daha iyi öğrenmek için harcayacağınız bir haftasonu, uzun vadede çok daha fazla fayda sağlayacaktır.  Biz de moda olduğu üzere bir özlü sözle kapatalım yazımımızı...
+Umarım bu yazı, Word'u daha etkin kullanmanıza yardımcı olmuştur. Uzun süre başından kalkamayacağınız bu programı daha iyi öğrenmek için harcayacağınız bir haftasonu, uzun vadede çok daha fazla fayda sağlayacaktır.  Biz de moda olduğu üzere bir özlü sözle kapatalım yazımızı...
 
 > "Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
 
