@@ -55,7 +55,7 @@ Lütfen bu şifreyi belirlerken daha önce hiç kullanmadığınız, uzun ve kar
 
 [http://strongpasswordgenerator.com/](http://strongpasswordgenerator.com/)
 
-Ana parolayı belirledikten sonra Firefox'u ilk açışınızda şifreyle girmek durumunda kalacaksınız ama diğer tüm şifrelerinizi firefox'da güvenle saklayabilirsiniz. Ve artık tüm siteler için farklı farklı şifreler kullanmanızda bir zorluk kalmayacaktır. Ayarlarda daha fazla seçenek isteyen arkadaşlar [Master Password+](https://addons.mozilla.org/en-US/firefox/addon/master-password/) adlı eklentiye bir göz atabilir.
+Ana parolayı belirledikten sonra Firefox'u ilk açışınızda şifreyle girmek durumunda kalacaksınız ama diğer tüm şifrelerinizi firefox'ta güvenle saklayabilirsiniz. Ve artık tüm siteler için farklı farklı şifreler kullanmanızda bir zorluk kalmayacaktır. Ayarlarda daha fazla seçenek isteyen arkadaşlar [Master Password+](https://addons.mozilla.org/en-US/firefox/addon/master-password/) adlı eklentiye bir göz atabilir.
 
 Ama diyelim birden fazla bilgisayarda çalışıyorsunuz veya sizin olmayan bilgisayarlarla da işiniz oluyor. O zaman size önereceğim (ve benim de şu an kullandığım) çok yetenekli bir şifre eklentisi olan [Lastpass](http://lastpass.com/)'dır.
 

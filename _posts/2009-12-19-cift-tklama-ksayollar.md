@@ -34,7 +34,7 @@ Bir hücrenin kenar çizgilerine çift tıklarsanız, o yöndeki en son hücreye
 
 [![](http://chandoo.org/img/l/go-to-last-cell-in-table-row.gif)](http://chandoo.org/img/l/go-to-last-cell-in-table-row.gif)
 
-**Format kopyalayıcısını bir çok hücreye uygulayın.**
+**Biçim boyacısını çift tıklayıp, bir çok hücreye uygulayın.**
 
 [![](http://chandoo.org/img/l/lock-format-painter.gif)](http://chandoo.org/img/l/lock-format-painter.gif)
 

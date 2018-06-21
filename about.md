@@ -25,4 +25,4 @@ Yok yeni yazıyla filan uğraşamam deyip de olan yazılara birkaç ekleme yapma
 
 [![]({{site.url}}/images/github_edit.png)]({{site.url}}/images/github_edit.png)
 
-Ayrıca, her türlü sorunuz için bana [şu linkden](http:/ozan.keysan.me) istediğiniz zaman ulaşabilirsiniz.
+Ayrıca, her türlü sorunuz için bana [şu link](http:/ozan.keysan.me)ten istediğiniz zaman ulaşabilirsiniz.

@@ -3,7 +3,7 @@ layout: post
 name: kullan-at-mail-adresi 
 title: Kullan-at mail adresi 
 time: 2011-02-05 21:00:00.000000000 +00:00
-description: "Anonomim maille spam mailleri azaltın"
+description: "Anomim maille spam mailleri azaltın"
 category: articles
 tags: [internet, güvenlik]
 ---

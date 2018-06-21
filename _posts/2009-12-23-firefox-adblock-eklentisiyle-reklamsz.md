@@ -15,7 +15,7 @@ Ama firefox kullanıyorsanız ve Adblock eklentisini kurarsanız bir çok reklam
 Eklentinin nasıl kullanılacağını aşağıdaki video anlatıyor kısaca, açıkcası hiç bir şey yapmasanız bile bir çok reklamı otomatik algılayıp engelliyor, yok sitenin ayrıca gıcık olduğunuz  kısımları varsa sağ tıklayıp istediğiniz kısımlarını kaldırabilirsiniz.
 
 **[Adblock\_Plus](http://www.dailymotion.com/video/x98cjl_adblockplus_lifestyle)**
-Bende aşağıda ufak bir test yaptım. Reklam işini en çok abartan sitelerden habertürk'ü yukarda orjinal haliyle, aşağıda adblock kullandıktan sonraki haliyle görüyorsunuz.
+Ben de aşağıda ufak bir test yaptım. Reklam işini en çok abartan sitelerden habertürk'ü yukarda orjinal haliyle, aşağıda adblock kullandıktan sonraki haliyle görüyorsunuz.
 
 [![]({{site.url}}/images/haberturk_reklam.JPG)]({{site.url}}/images/haberturk_reklam.JPG)
 

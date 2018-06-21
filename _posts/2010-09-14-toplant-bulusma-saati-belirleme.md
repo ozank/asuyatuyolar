@@ -3,7 +3,7 @@ layout: post
 name: toplant-bulusma-saati-belirleme 
 title: Toplantı-Buluşma Saati Belirleme 
 time: 2010-09-14 23:13:00.000000000 +01:00 
-description: "Toplanti saati için karşılışlı mailleşmelere son"
+description: "Toplantı saati için karşılıklı mailleşmelere son"
 category: articles
 tags: [ekip işi]
 ---
