@@ -18,13 +18,13 @@ Yok akademik kariyer düşünmüyorsanız o zaman Word'le idare edebilirsiniz.
 
 Geçen hafta bir makale gönderdik, bu süreçte öğrediklerimi sıcağı sıcağına sizinle de paylaşayım dedim. Yani bu yazı Latex'e giriş yazısı değil, Latex kullananlara makale yazma sürecini anlatan bir yazı olacak. Ama yeni başlayanlar için Latex konulu bir yazıyı da vakit bulduğumda hazırlayacağım.
 
-#Giriş
+## Giriş
 
-Biri işte biri evde olmak üzere iki bilgisayar üstünden çalıştım. Okuldaki bilgisayar Windows, evdeki Ubuntu. Makalemiz [IEEE Trans. on Industrial Electronics](http://tie.ieee-ies.org/). Eğer siz de IEEE dergi ya da konferansına makale yollayacaksanız işiniz çok kolay çünkü oldukça kullanışlı bir Latex şablonu var ([IEEE Digital Toolbox](http://www.ieee.org/publications_standards/publications/authors/authors_journals.html)). Özellikle bu şablonun [kullanma klavuzunun](http://ctan.sqsol.co.uk/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf) çıktısını alıp, bir yere koymanızı tavsiye ederim, baya işinize yarayacak.
+Biri işte biri evde olmak üzere iki bilgisayar üstünden çalıştım. Okuldaki bilgisayar Windows, evdeki Ubuntu. Makalemiz [IEEE Trans. on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41). Eğer siz de IEEE dergi ya da konferansına makale yollayacaksanız işiniz çok kolay çünkü oldukça kullanışlı bir Latex şablonu var ([IEEE Digital Toolbox](http://www.ieee.org/publications_standards/publications/authors/authors_journals.html)). Özellikle bu şablonun [kullanma kılavuzunun](https://ras.papercept.net/conferences/support/files/IEEEtran_HOWTO.pdf) çıktısını alıp, bir yere koymanızı tavsiye ederim, baya işinize yarayacak.
 
 Ama başka birçok dergi ve konferans için de Latex şablonları mevcut. İlk yapmanız gereken bu şablonu indirmek olsun.
 
-#Eşleştirme
+## Eşleştirme
 
 İki bilgisayardan çalışıyorsanız ve tüm dosyalarınızı eşleştirmiyorsanız işiniz oldukça zor. Tek bilgisayardan çalısıyorsanız ya da dosyalarınızı usb-hafıza üzerinden taşıyorsanız iyi güzel ama ya kaybolursa, ya bilgisayarınız bozulursa? Bence en güzel çözüm [Dropbox kurmak.](http://asuyatuyolar.org/2009/12/dropbox.html)
 
@@ -34,7 +34,7 @@ Ayrıca, Dropbox'da [ortak bir klasör oluşturarak](http://asuyatuyolar.org/201
 
 Bu arada, eğer çalıştığınız arkadaşlarınızdan birisi Latex kullanmaya yanaşmıyosa, [Latex2Rtf](http://en.wikipedia.org/wiki/LaTeX2RTF) programıyla .rtf formatına çevirebilirsiniz.
 
-#Latex Editörü
+## Latex Editörü
 
 Eğer alıştığınız bir latex editörünüz varsa sorun yok ama yeni başlayanlar için [TexStudio](http://texstudio.sourceforge.net/)'yu tavsiye ederim. Linux, Windows ve Mac versiyonları mevcut. Latex'e yeni başlayanlar için birçok güzel özelliği mevcut (kod tamamlama, geniş denklem editörü, yazım klavuzu vs.) Programı aşağıdaki resimden indirebilirsiniz.
 
@@ -42,7 +42,7 @@ Eğer alıştığınız bir latex editörünüz varsa sorun yok ama yeni başlay
 
 Ayrıca son zamanlarda [Gummi](http://gummi.midnightcoding.org/) adlı programı da sevmeye başladım. Ama daha fazla editör hakkında bilgi almak istiyorsanız. [Şu linkde](http://www.charlietanksley.net/philtex/editors/)en yaygın olan 8 tanesi karşılaştırılmış.
 
-#Referanslar
+## Referanslar
 
 Referanslar için [Mendeley](http://www.mendeley.com/) programını kullanıyorum (daha önce [şu yazımızda](http://asuyatuyolar.org/2009/12/mendeley-akademik-pdf-ve-referans.html) değinmiştik.)
 
@@ -68,7 +68,7 @@ Referansları Latex'de atmak için Mendeley'den CTRL + K komutunu kullanabilirsi
 
 Ya da buna gerek kalmadan TexStudio'da  komutu doğrudan yazabilirsiniz. Texmakerx .bib dosyasındaki referanslara göre otomatik tamamlayacaktır.
 
-#Grafikler - Şemalar:
+## Grafikler - Şemalar:
 
 Eğer makalenizde bol bol grafik veya şema kullanıyorsanız, sonradan iş çıkarmamak için derginin kabul ettiği dosya formatlarını mutlaka kontrol edin. IEEE dergileri grafikler için vektörel dosya formatlarını istiyor (.eps veya .pdf dosyalarını). Peki nedir vektörel resimle normal pixel formatlı resmin farkı? Pixel tabanlı dosyalarda (.jpg, .png, .tiff) resim piksellerden oluşturularak yaratılır, ve resim büyütüldükçe noktalar daha belirgin hale gelir. Vektörel resimlerde ise resim büyütüldüğü zaman yeniden oluşturulur ve kalite düşmez. Mesela bir örnekle gösterelim. Aşağıdaki resim normal boyutlarda iken bir sorun gözükmüyor.
 
@@ -98,7 +98,7 @@ set(0,'DefaultaxesFontSize', 16);
 
 Bu ayarlar [şu sayfada](http://www.agmonim.com/2009/05/making-better-eps-figures-with-matlab-for-texlatex-papers/) gayet güzel açıklanmış. Ayrıca, MATLAB'den grafikleri pdf veya eps olarak kaydetme çok başarılı değil, özellikle fontlarla ilgili birkaç sıkıntı yaşadım. Ancak [Matlab Central'daki SaveFig eklentisini](http://www.mathworks.com/matlabcentral/fileexchange/10889-savefig) indirerek, bir çok formatta, istediğiniz çözünürlükte rahatlıkla kaydedebilirsiniz. Ayrıca [şu sayfadaki](http://www.mathworks.com/matlabcentral/fileexchange/?dir=desc&sort=downloads&term=tag%3A%22latex%22) eklentilerden de ilginizi çeken olabilir.
 
-#Resimler
+## Resimler
 
 Eğer resimleriniz varsa önerim son aşamaya kadar .tiff olarak saklamanız. Dosya boyutu oldukça büyüktür ama  jpeg gibi her dosyayı kaydedişinizde resmin kalitesi düşmez. Eğer .pdf ya da .eps olarak kaydedemediğiniz şemalarınız varsa onları da PNG formatıyla kaydedin. IEEE jpeg ve png dosyalarını da kabul etmiyor. Ama png bazı konularda jpeg e göre daha avantajlıdır, aşağıdaki karikatür png ve jpeg farklarını güzel açıklamış (sağ ve soldaki yazıların kalitesine dikkat).
 
@@ -106,7 +106,7 @@ Eğer resimleriniz varsa önerim son aşamaya kadar .tiff olarak saklamanız. Do
 
 Eğer resimleriniz üstünde kesme biçme, yazı ekleme, çözünürlüğü ayarlama, renkleri düzenleme gibi işler yapmanız gerekiyorsa [GIMP](http://www.gimp.org/) programını kullanabilirsiniz. GIMP, Photoshop'un ücretsiz versiyonu, tavsiye ederim.
 
-#Makalenin İçeriği
+## Makalenin İçeriği
 
 Tabi ki en zor kısım gene makalenin kendisini yazma, sonra yazım hatalarınızı düzeltme kısmı filan. Belki işinize yarayabilecek bir kaç link:
 
@@ -115,7 +115,7 @@ Tabi ki en zor kısım gene makalenin kendisini yazma, sonra yazım hatalarını
 * [Yazım Hatalarını Bulma](http://www.englishproofreading.co.uk/free-resources)
 * [Latex Yazım Tüyoları](http://web.science.mq.edu.au/%7Erdale/resources/writingnotes/latexstyle.html)
 
-#Final Dosyaları Teslim
+## Final Dosyaları Teslim
 
 Makaleyi yazdınız, hakem yorumları geldi onları düzelttiniz, sonra başka değişiklikler istediler onları da düzelttiniz ve tebrikler makaleniz yayınlanmak için kabul edildi. Ancak daha çileniz bitmedi çünkü sırada tüm resim formatlarını istenen formatlara çevirmek, dosya adlandırmalarını filan yapmak gerekecek. Şu ana kadar anlattıklarımı uyguladıysanız bu çok da zor olmayacak. Mesela IEEE tüm resimleri hem kendi formatında hem de pdf formatında istiyor, ayrıca figür ve tablo listesini de istiyor. Tüm resim ve tablolarınızı tek dosyada her sayfada bir resim olacak şekilde göndermeniz isteniyorsa, şu linkteki([Preparing Final Submissions for IEEE](http://www.shawnlankton.com/2008/08/preparing-final-submissions-for-ieee-journal-articles/)
 ) yöntem işinize yarayabilir. 

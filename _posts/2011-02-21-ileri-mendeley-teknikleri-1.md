@@ -39,7 +39,7 @@ Mesela benim işime IEEE ve Google Scholar oldukça yarıyor. Web importer hakk�
 ## 3- Web Profilinizden Güncel CV'nizi Yayınlayın.
 
 Sürekli güncellenen bir akademik sayfa tutmak genelde zordur. Büyük ihtimalle üniversite sayfasındaki sayfasını güncellemek için birilerini zorlamanız gerekir. Web sayfanızı kendiniz değiştirebilseniz bile bununla uğraşmak çoğu zaman aklımıza gelmez.
-Mendeley'in internet sitesini kullanarak, güncel bir site hazırlayabilirsiniz. (benim profilime [şu linkden](http://www.mendeley.com/profiles/ozan-keysan/) ulaşabilirsiniz).
+Mendeley'in internet sitesini kullanarak, güncel bir site hazırlayabilirsiniz. (benim profilime [şu linkten](http://www.mendeley.com/profiles/ozan-keysan/) ulaşabilirsiniz).
 Bilgilerinizi güncellemek için [www.mendeley.com](http://www.mendeley.com/) adresine girin, ve edit my profile'ı seçerek, eğitiminiz, çalıştığınız işler, araştırma konularınızla ilgili bilgileri girin. Sitenin en güzel özelliği ise, Mendeley programında 'My Publications' klasörüne koyduğunuz makalelerinize ait bilgiler web sitesine otomatik olarak eklenecektir.
 
 Eğer, CV'nizin mendeley sayfası yerine üniversite sayfasında yayınlanmasını istiyorsanız bunun da bir kolayı var: 'Edit My Profile' sayfasına girdikten sonra, 'Embed' yazan ufak butona tıklayın.
