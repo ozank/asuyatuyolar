@@ -30,7 +30,7 @@ Yok bu eklenti size yeterli gelmediyse daha fazla seçenek istiyorsanız. PowerP
 
 ## Resimler
 
-Sunumuzun kalitesini güzel ve ilgi çekici resimler kullanarak arttırabilirsiniz. Resim bulmanın belki de en kolay yolu [Google Images](http://www.google.com/imghp)' sitesi. Daha kaliteli ve alakalı resimler bulmak istiyorsanız, [Flickr](http://www.flickr.com/) adlı siteye bir göz atmalısınız. Bu arada, internetten bulduğunuz resimlerin telif hakkı sınırlaması olabilir, dikkat etmekte fayda var. Flickr sitesinde milyonlarca resim olmasına rağmen sitenin arama özelliği pek kullanışlı değil. Ancak, bu işi yapabileceğiniz yardımcı siteler mevcut. Bunlardan en hoşuma gideni [Compfight ](http://compfight.com/). 
+Sunumuzun kalitesini güzel ve ilgi çekici resimler kullanarak arttırabilirsiniz. Resim bulmanın belki de en kolay yolu [Google Images](http://www.google.com/imghp) sitesi. Daha kaliteli ve alakalı resimler bulmak istiyorsanız, [Flickr](http://www.flickr.com/) adlı siteye bir göz atmalısınız. Bu arada, internetten bulduğunuz resimlerin telif hakkı sınırlaması olabilir, dikkat etmekte fayda var. Flickr sitesinde milyonlarca resim olmasına rağmen sitenin arama özelliği pek kullanışlı değil. Ancak, bu işi yapabileceğiniz yardımcı siteler mevcut. Bunlardan en hoşuma gideni [Compfight ](http://compfight.com/). 
 
 ## Siz
 

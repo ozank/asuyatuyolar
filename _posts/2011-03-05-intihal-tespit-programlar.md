@@ -14,7 +14,7 @@ tags: [akademik, populer]
 -   [Turkish Journal - Problem Sistem Ona Sataşmalı](http://www.turkishjournal.com/i.php?newsid=9110)
 -   [Plagiarism Turkish Blog](http://plagiarism-turkish.blogspot.com/) 
 
-Gerçi akademide niteliğe değil de niceliğe önem veren saçma bir puanlama sistemi olduğu sürece bunun önüne geçmek de zor görünüyor. Gene de, en büyük baskıyı  -Murat Eren'in dediği gibi- öğrencilerin, genç akademisyenlerin intihal olaylarını daha fazla açığa çıkarması oluşturacak gibi. Enis hocanın da [şu yazısı](http://enisden.blogspot.com/2011/02/intihalasrma-tespit-ve-engelleme.html) ilham verdi ve intihal ve kopyanın tespiti ile ilgili bu yazıyı yazmaya karar verdim.
+Gerçi akademide niteliğe değil de niceliğe önem veren saçma bir puanlama sistemi olduğu sürece bunun önüne geçmek de zor görünüyor. Gene de, en büyük baskıyı  -Murat Eren'in dediği gibi- öğrencilerin, genç akademisyenlerin intihal olaylarını daha fazla açığa çıkarması oluşturacak gibi. Enis hocanın da [şu yazısı](https://enisden.wordpress.com/2011/02/27/intihalasirma-tespit-ve-engelleme-onerileri) ilham verdi ve intihal ve kopyanın tespiti ile ilgili bu yazıyı yazmaya karar verdim.
 
 [![]({{site.url}}/images/van_gogh.jpg)](http://www.ithenticate.com/)
 
@@ -25,7 +25,7 @@ Biz bu yazıda ücretsiz, ve bireysel kullanıcılara yönelik seçeneklere baka
 ----------------------------------------
 
 İlk ücretsiz programımız Viper. Sitesinde anlattığına göre Turnitin'den çok daha gelişmiş özellikleri var. Programın tek eksisi sadece Windows versiyonunun olması (o açıdan deneme imkanım olmadı). Programın güzel bir özelliği de sadece internetteki kaynaklarda değil bilgisayarınızda bulunan doküman arşivinde de tarama yapabilmesi. İndirmek için aşağıdaki resimlere tıklayabilirsiniz. Programla ilgili değerlendirmelerinizi yorumlara yazarsanız sevinirim.
-Eğer sadece bilgisayarınızaki dökümanlar arasında tarama yapmak istiyorsanız da [WCopyFind](http://plagiarism.phys.virginia.edu/Wsoftware.html)en yetenekli programlardan birisi, üstelik açık kodlu.
+Eğer sadece bilgisayarınızaki dökümanlar arasında tarama yapmak istiyorsanız da [WCopyFind](http://plagiarism.bloomfieldmedia.com/wordpress/software/wcopyfind/) en yetenekli programlardan birisi, üstelik açık kodlu.
 
 [![]({{site.url}}/images/comparison-table.gif)](http://www.scanmyessay.com)
 
@@ -39,7 +39,7 @@ Oldukça basit arayüzlü bir internet sitesi. Yahoo'nun arama sonuçlarını ku
 [Plagiarisma](http://plagiarisma.net) 
 -------------------------------------
 
-Bu da tamamen internet üstünden çalışan bir sistem ve şimdiye denediklerim içinde en hoşuma gideni, çünkü Google, Bing ve Yahoo'da arama yapabildiği gibi, akademik makalelerdeki intihal olaylarını tespit etmede çok işe yarayabilecek Google Scholar ve Google Books sitelerinde de arama yapabiliyor. Üye olduğunuzda(ücretsiz), iki metin arasındaki benzerlikleri bulma seçenekleri gibi ekstra özellikleri de kullanabiliyorsunuz. Daha kapsamlı aramalar için paralı üyelik seçeneği de var ancak ücretsiz hali bile oldukça başarılı.
+Bu da tamamen internet üstünden çalışan bir sistem ve şimdiye kadar denediklerim içinde en hoşuma gideni, çünkü Google, Bing ve Yahoo'da arama yapabildiği gibi, akademik makalelerdeki intihal olaylarını tespit etmede çok işe yarayabilecek Google Scholar ve Google Books sitelerinde de arama yapabiliyor. Üye olduğunuzda (ücretsiz), iki metin arasındaki benzerlikleri bulma seçenekleri gibi ekstra özellikleri de kullanabiliyorsunuz. Daha kapsamlı aramalar için paralı üyelik seçeneği de var ancak ücretsiz hali bile oldukça başarılı.
 
 [![]({{site.url}}/images/plagiarisma.png)](http://plagiarisma.net)
 
