@@ -10,20 +10,19 @@ tags: [internet, sunum, çizim]
 
 Eğer öyle ya da böyle bir programa ihtiyacınız olduysa ve bilgisayarınızda yüklü değilse hayıflanmanıza gerek yok, çünkü artık ihtiyacınız olabilecek hemen her programın, internetten kullanabileceğiniz ücretsiz bir alternatifi bulunuyor. Bu yazımızda geniş bir yelpazede bu alternatiflere değineceğiz.
 
-#Resim-Video Düzenleme
+# Resim-Video Düzenleme
 
 Eğer resimlerle ilgili bir işiniz varsa, ki sadece boyut değiştirmek, döndürmekten ziyade değişik efektler uygulamak filan istiyorsanız, bilgisayarınızda da Photoshop (ya da [GIMP](http://www.gimp.org/)) yoksa, aşağıdaki siteler işinizi görebilir.
 
 -  **[Aviary](http://www.aviary.com/)**: Hemen resmimde birkaç ufak değişiklik yapayım çıkayım diyorsanız (parlaklık, renk ayarları, kırmızı göz düzeltme, vs.) Aviary sitesinden bunu  kolaylıkla(üstelik üye olmadan) yapabilirsiniz. Ama ilk açılan pencerenin basitliği sizi aldatmasın. Eğer sitedeki '[Advanced Suite](http://www.aviary.com/#sectionadvanced)' linkine tıklarsanız çok daha gelişmiş araçlara erişebilirsiniz (gelişmiş resim editörlerinin yanı sıra, vektör editörleri ve müzik editörleri de var).
-
--   **[SplashUp](http://www.splashup.com/)** : Ama gerçekten Photohop alternatifi olabilecek bir site arıyorsanız [SplashUp](http://www.splashup.com/) sitesine bir göz atmalısınız.
--   **[BeFunky](http://www.befunky.com/)**: Yok eğer ışığıydı, rengiydi uğraşmayıp hazır yapılmış efektleri resimlerinize uygulamak istiyorsanız, BeFunky'nin katalogu oldukça çeşitli ve eğlenceli. (sitenin [kurucularına](http://www.befunky.com/about-us/) bakmayı da ihmal etmeyin).
+-  **[SplashUp](http://www.splashup.com/)** : Ama gerçekten Photohop alternatifi olabilecek bir site arıyorsanız [SplashUp](http://www.splashup.com/) sitesine bir göz atmalısınız.
+-  **[BeFunky](http://www.befunky.com/)**: Yok eğer ışığıydı, rengiydi uğraşmayıp hazır yapılmış efektleri resimlerinize uygulamak istiyorsanız, BeFunky'nin katalogu oldukça çeşitli ve eğlenceli. (sitenin [kurucularına](http://www.befunky.com/about-us/) bakmayı da ihmal etmeyin).
 
 [![]({{site.url}}/images/befunky.png)](http://www.befunky.com/)
 
 Eğer işiniz video düzenlemekse dosya boyutlarından ötürü internette yapmanız biraz zor olabilir. Gözüme çarpan sitelerden en iyisi [Jaycut](http://jaycut.com/) gibi.  Denemedim ama baya kullanışlı görünüyor, siteyi kullanan birisi yorum yazarsa sevinirim. Ayrıca videonuzu YouTube'a koymayı düşünüyorsanız, [YouTube'un kendi video editörü](http://www.youtube.com/editor) oldukça kullanışlı.
 
-#Çizim Programı
+# Çizim Programı
 
 Microsoft Visio alternatifi olabilecek ücretsiz alternatifleri '[Çizim Programları](http://asuyatuyolar.org/2011/01/cizim-pogramlar.html)' yazısında listelemiştik. Bunların arasında internet üstünden en kolay çizim yapabileceğiniz program bence **[Gliffy](http://www.gliffy.com/)**. Sitedeki hazır şablonları kullanarak organizasyon şeması gibi standart şekilleri oluşturmak oldukça kolay.
 

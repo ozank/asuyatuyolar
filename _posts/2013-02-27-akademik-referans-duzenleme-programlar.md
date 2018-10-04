@@ -25,15 +25,15 @@ Yukarıda yazdıklarım temel özellikler. Ayrıca, pdf dosyaları üstünde not
 [EndNote:](http://endnote.com/)
 -------------------------------
 
-[EndNote](http://endnote.com/) Thomson Reuters'ın paralı bir uygulaması.[Kişisel lisansı](http://endnote.com/popup/endnote-students)  oldukça tuzlu (113\$), ancak okulunuzun toplu lisansı varsa ne ala.
+[EndNote](http://endnote.com/) Thomson Reuters'ın paralı bir uygulaması. [Kişisel lisansı](http://endnote.com/popup/endnote-students) oldukça tuzlu (113\$), ancak okulunuzun toplu lisansı varsa ne ala.
 Aslında EndNote oldukça kapalı bir program, ancak oldukça fazla kullanıcısı var. Kapalı olmasından dolayı hiç ısınamadım. Zaten üstüne [Zotero'ya dava açınca](http://www.citmedialaw.org/threats/thomson-reuters-scientific-inc-endnote-v-george-mason-university-zotero) iyice soğumuştum.
 Diğer taraftan, Microsoft Word eklentisi genelde sorunsuz çalışıyor, birçok kaynakça formatını destekliyor. [EndNote](http://endnote.com/) içinden doğrudan makale araması (belli kaynaklarda) yapılabilmesi de güzel bir özellik. Eğer okulunuzun lisansı varsa, tezinizi Word ile yazıyor, tezim bitince de akademiydi, referanstı işim olmaz diyorsanız EndNote kullanmayı düşünebilirsiniz.
 
 [![]({{site.url}}/images/endnote.jpeg)]({{site.url}}/images/endnote.jpeg)
 
-EndNote'un nasıl kullanılabileceğini aşağıdaki Türkçe alt-yazılı videodan izleyebilirsiniz.
+EndNote'un nasıl kullanılabileceğini aşağıdaki videodan izleyebilirsiniz.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/L5Kn8l2rgqk?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/S3xo6ZjBV6U?rel=0" frameborder="0" allowfullscreen></iframe>
 
 [CiteULike:](http://www.citeulike.org/)
 ---------------------------------------
