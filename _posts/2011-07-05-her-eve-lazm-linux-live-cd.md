@@ -6,9 +6,9 @@ time: 2011-07-05 21:19:00.000000000 +01:00
 category: articles
 tags: [linux, güvenlik, populer]
 ---
-Eğer bir Linux kullanıcısı değilseniz bile elinizin altında bir Linux Live CD's bulundurmanın birçok faydasını görebilirsiniz. Peki Windows kullanıyorsam hatta  Linux'dan da hiç anlamıyorsam, ne işime yaracak bu Live CD muhabbeti?
+Eğer bir Linux kullanıcısı değilseniz bile elinizin altında bir Linux Live CD's bulundurmanın birçok faydasını görebilirsiniz. Peki Windows kullanıyorsam hatta  Linux'tan da hiç anlamıyorsam, ne işime yaracak bu Live CD muhabbeti?
 
-> *Live CD/USB: herhangi bir Linux sürümünün, kurulum gerektirmeden, bilgisayarınızda hiçbir değişiklik yapmadan, doğrudan CD/flash disk'den çalışan versiyonlarına verilen ad. *
+> *Live CD/USB: herhangi bir Linux sürümünün, kurulum gerektirmeden, bilgisayarınızda hiçbir değişiklik yapmadan, doğrudan CD/flash disk'ten çalışan versiyonlarına verilen ad. *
 
 [![]({{site.url}}/images/bootable-ubuntu-usb-flash-drive.jpg)]({{site.url}}/images/bootable-ubuntu-usb-flash-drive.jpg)
 
@@ -23,7 +23,7 @@ Eğer çok kritik bir anda bilgisayarınız bozulmuşsa (ki her zaman öyle anla
 ### Dosyalarım bilgisayarda kaldı ama şifremi kabul etmiyor!
 
 Eğer Windows ya da Mac giriş yapmanıza izin vermiyorsa, dosyalarınıza erişmek için gene Live CD'yi kullanabilirsiniz. Linux'u çalıştırdığınızda, bilgisayarınızın harddiski harici disk olarak görünecektir ve şifre kısıtlaması olmadan tüm dosyaları görebilirsiniz.
-Yok ben sadece dosyalarıma erişmek değil şifrelerimi de görmek istiyorum diyorsanız (en azından XP ve Vista için) [OphCrack](http://ophcrack.sourceforge.net/) CD'sini kullanabilirsiniz. Detaylar [makeuseof.com](http://www.makeuseof.com/tag/hack-windows-passwords-with-ophcrack/) 'da. Ya da kablosuz internet şifrelerini kırmak isteyenler ise [BackTrack Linux](http://www.backtrack-linux.org/) sürümünü kullanabilirler.
+Yok ben sadece dosyalarıma erişmek değil şifrelerimi de görmek istiyorum diyorsanız (en azından XP ve Vista için) [OphCrack](http://ophcrack.sourceforge.net/) CD'sini kullanabilirsiniz. Detaylar [makeuseof.com](http://www.makeuseof.com/tag/hack-windows-passwords-with-ophcrack/) &rsquo;da. Ya da kablosuz internet şifrelerini kırmak isteyenler ise [BackTrack Linux](http://www.backtrack-linux.org/) sürümünü kullanabilirler.
 
 ### Bilgisayarınızın donanımını test edin.
 
@@ -33,7 +33,7 @@ Bilgisayarınız internete girmiyorsa ve sorunun ethernet kartınızdan mı yoks
 
 [![]({{site.url}}/images/virus-laptop-02.jpg)]({{site.url}}/images/virus-laptop-02.jpg)
 
-Bilgisayarınıza bulaşan virüslerden tüm uğraşlarınıza rağmen kurtulamıyorsanız, Linux CD'si ile boot ettiğinizde, aşağıdaki yazılımları kullanarak hiç başınız ağrımadan (Linux'da virüs derdi yok) virüsleri temizleyebilirsiniz.
+Bilgisayarınıza bulaşan virüslerden tüm uğraşlarınıza rağmen kurtulamıyorsanız, Linux CD'si ile boot ettiğinizde, aşağıdaki yazılımları kullanarak hiç başınız ağrımadan (Linux'ta virüs derdi yok) virüsleri temizleyebilirsiniz.
 
 -   [BitDefender](http://www.makeuseof.com/tag/bitdefender-rescue-cd-removes-viruses-fails/)
 -   [AVG](http://www.avg.com/us-en/226386)
