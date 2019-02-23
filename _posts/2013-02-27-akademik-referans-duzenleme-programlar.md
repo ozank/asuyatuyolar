@@ -40,6 +40,8 @@ EndNote'un nasıl kullanılabileceğini aşağıdaki videodan izleyebilirsiniz.
 
 [CiteULike](http://www.citeulike.org/) ücretsiz bir web uygulaması (sahibi [Springer](http://www.springer.com/about+springer/citeulike)). Özellikle internetten kaynak bulmakta, bu kaynaklarınızı araştırma grubunuzla paylaşmakta oldukça başarılı. Öğrencilerinize okuma listesi önermek gibi işler için de kullanışlı olabilir. Ayrıca kütüphanenizdeki makalelere göre ilginizi çekebilecek makaleler de öneriyor. Her ne kadar referanslarınızı .bib olarak aktarabilseniz de, makalelerin pdf dosyalarını arşivlemek veya bunlar üstünde not almak istiyorsanız başka seçeneklere baksanız daha iyi olur.
 
+**Duyuru/Güncelleme:** 15 yılın ardından CiteUlike kapanıyor. 30 Mart 2019 tarihine kadar kütüphanenizi indirmeniz gerekiyor sonrasında erişilmez olacak. [kaynak](http://www.citeulike.org/news)
+
 [![]({{site.url}}/images/citeulike.gif)]({{site.url}}/images/citeulike.gif)
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/LkNeEUV4sPs?rel=0" frameborder="0" allowfullscreen></iframe>
