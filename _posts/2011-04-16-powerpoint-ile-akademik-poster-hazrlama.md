@@ -69,6 +69,7 @@ Yok işin kolayına kaçıp fontları renkleri filan seçmekle uğraşmak istemi
 -   [Genigraphis Poster Şablonları](http://www.genigraphics.com/templates/default.asp)
 -   [Make Designs Şablonları](http://www.makesigns.com/SciPosters_Templates.aspx)
 -   [PhD Posters](http://phdposters.com/gallery.php)
+-   [Canva Poster](https://www.canva.com/tr_tr/yapma/poster/)
 
 Ayrıca birkaç okulun da sitesinde örnek posterler mevcut:
 
