@@ -2,8 +2,8 @@ title:            Asu'ya Tüyolar
 tagline:          Araştırmacılar için bilgisayar, internet tüyoları
 description:      Araştırmacılar için bilgisayar, internet tüyoları
 #Comment out url when working locally to resolve base urls correctly
-#url: http://ozank.github.io/asuyatuyolar
-url: http://asuyatuyolar.org
+url: http://keysan.me/asuyatuyolar
+#url: http://asuyatuyolar.org
 
 # Owner/author information
 author_ids: [ozan,  htss, ismail]
